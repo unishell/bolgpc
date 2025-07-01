@@ -1,0 +1,557 @@
+# ARCHIVED SERMONS 2025 歷年主日信息
+
+## 2025.6.22
+- **中文堂信息:** [我們往哪裡去?](https://www.youtube.com/live/Rkv_Sd8m8FY?si=F-b3usP1RG88U8ME) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/06/Where-do-we-go-from-here-Horz.pdf)
+- **English Service:** [Where do we go from here?](https://www.youtube.com/live/ev_GHHN2bwY?si=L3Uk1PHUAT9Gbqe7) ，Pastor Joseph Chang
+
+## 2025.6.15 Father’s Day Joint Service
+- **中英文聯合崇拜:** [Testimony 父親節見證](https://www.youtube.com/live/vp4UvUfPnXM?si=-DutlTRD5eBo6ven) ，Eric Pai, Steve Tsai, Dainel Chang
+
+## 2025.6.8
+- **中文堂信息:** [聖靈的時代](https://www.youtube.com/live/y9C4JW0rKCU?si=uFwNAYnNTb7i1eo1) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/06/Time-of-the-Holy-Spirit-Horz.pdf)
+- **English Service:** [Time of the Holy Spirit](https://www.youtube.com/live/K8j_xvK4muQ?si=czRDk1WzKlKmubKd) ，Pastor Joseph Chang
+
+## 2025.5.30–6.1 Retreat 退修會 (Specker 講員: Pastor Peter Chen 陳學平 牧師)
+1. **啟動聖靈的時代 (Entering into the Era of Holy Spirit):** [YouTube Video](https://www.youtube.com/live/qexYbiOb2Z8?si=-I0TI-AFPH2T4vJa)  
+2. **啟動說預言 (Activating the Gift of Prophecy):** [YouTube Video](https://www.youtube.com/live/x01dg-koDj0?si=7hSdToclAHQQiKfZ)  
+3. **操練說預言 (Practicing the Gift of Prophecy):** [YouTube Video](https://www.youtube.com/live/KjLu8YluEq0?si=_ic8vX45Gz_MPfiY)  
+4. **預言的功能和提醒 (Function and Discernment in the Gift of the Prophecy):** [YouTube Video](https://www.youtube.com/live/dS0a_riCLJk?si=9KTcSP29d6LH5X9v)  
+5. **發覺恩賜，建立教會 (Discovering Spiritual Gift for Building up of the Church):** [YouTube Video](https://www.youtube.com/live/xMPfl2zmh3M?si=dXhKAeTVTGaN2FVU)
+
+## 2025.5.25
+- **中文堂信息:** [時候到了](https://www.youtube.com/live/VEjUOqPBk84?si=HaPxh6zTz_K0cmZh) ，陳學平 牧師
+- **English Service:** [The Time Has Come](https://www.youtube.com/live/43jSFVKUIFA?si=8aECPexdYpQMCBrV) ，Pastor Peter Chen
+
+## 2025.5.18
+- **中文堂信息:** [苦難中的信心](https://www.youtube.com/live/H1wlDZnXGSw?si=MFEwXk8QRCs6GtpZ) ，卓永昇 弟兄
+- **English Service:** [Faith in Suffering](https://www.youtube.com/live/aAgQ6d9taTc?si=go4VR4kHtjujp4md) ，Brother Peter Cho
+
+## 2025.5.11
+- **中文堂信息 (Part 1):** [Rachel & Leah—Two Sides of A Wife 拉結和利亞—一個太太的兩面 (Part 1)](https://vimeo.com/1083397485?share=copy) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/05/Rachel-Leah-Horz.pdf)
+- **Message (Part 2):** [Rachel & Leah—Two Sides of A Wife 拉結和利亞—一個太太的兩面 (Part 2)](https://vimeo.com/1083400652?share=copy) ，Pastor Joseph Chang
+
+## 2025.5.4
+- **中文堂信息:** [女人，男人的幫助](https://www.youtube.com/live/OrUxoQNBPJw?si=dpsc-GwdA36gRDQ-) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/05/Woman-Helper-of-Man-H.pdf)
+- **English Service:** [Woman, Helper of Man](https://www.youtube.com/live/2WCpjUrfe0o?si=wbna8nrE8vyz2xv2) ，Pastor Joseph Chang
+
+## 2025.4.27
+- **中文堂信息:** [金錢與萬國](https://www.youtube.com/live/cIYggAF-YdI?si=L4NAZNphAxKQKZH8) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/05/Money-and-Nations-Horz.pdf)
+- **English Service:** [Money & Nations](https://www.youtube.com/live/2WCpjUrfe0o?si=9Vyt753yVin1oeAI) ，Pastor Joseph Chang
+
+## 2025.4.20
+- **中文堂信息:** [So Send I You 我也照樣差遣你們](https://www.youtube.com/live/b-H-IPitvGc?si=w7QH6vM6UAH_w60h) ，Pastor Joseph Chang 張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/04/So-Send-I-You-Horz.pdf)
+
+## 2025.4.13
+- **中文堂信息:** [壓傷的蘆葦](https://www.youtube.com/live/VEabFwpCaAk?si=267NqXOglwMTsAfO) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/04/A-Bruised-Reed-Horz.pdf)
+- **English Service:** [A Bruised Reed](https://www.youtube.com/live/Qy1YEJSCRtg?si=20vMWBCNIvuoP8rk) ，Pastor Joseph Chang
+
+## 2025.4.6
+- **中文堂信息:** [智慧的愛](https://www.youtube.com/live/pmgqpgv2_AI?si=uktjJU9tZsRvd3yP) ，胡慧玲 牧師
+- **English Service:** [The Love of Wisdom](https://www.youtube.com/live/0I-GvAIfevs?si=lnk6VlVnIQguMwxQ) ，Pastor Allison Hu
+
+## 2025.3.30
+- **中文堂信息:** [二人成為一體](https://www.youtube.com/live/a-5SXZrjKB8?si=--MlvpjNM-xuFqSJ) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/03/Two-Shall-Become-One-H.pdf)
+- **English Service:** [Two Shall Become One](https://www.youtube.com/live/xPe-mntSCh8?si=UiTAu1FRZPsd-to3) ，Pastor Joseph Chang
+
+## 2025.3.23
+- **中文堂信息:** [金錢—介於神和人之間的價值表達](https://www.youtube.com/live/8a8YN9tcA7A?si=zoAIQ0lwQvUuXdTe) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/03/Money-Value-btw-God-Man-H.pdf)
+- **English Service:** [Money—Value Between God and Man](https://www.youtube.com/live/urU0fdJ5fD0?si=A8R9M63Xks8V2unn) ，Pastor Joseph Chang
+
+## 2025.3.9
+- **中文堂信息:** [錢財—人和人當中彼此同意交換的價值](https://vimeo.com/1064163221) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/03/Money-The-Value-Consesus-btw-People-H.pdf)
+- **English Service:** [Money—The Value Consesus btw People](https://www.youtube.com/live/gybXt3egSAI?si=zR1oEpqO8nC6A_JS) ，Pastor Joseph Chang
+
+## 2025.3.2
+- **中文堂信息:** [金錢, 代表你甚麼樣的價值觀?](https://www.youtube.com/live/yUDYDU3dZ5s?si=B4TgzOtjAOlO3Wyi) ，張玉明 牧師
+- **English Service:** [Money—What kind of value does it represent you?](https://www.youtube.com/live/L6xa465e-Us?si=ZMomlu4zOV7Jnw6w) ，Pastor Joseph Chang
+
+## 2025.2.23
+- **中文堂信息:** [我和我家, 必定事奉耶和華](https://www.youtube.com/live/wTm3amob_Kc?si=-Y3URiG2msou2Dxl) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/02/I-and-My-House-H.pdf)
+- **English Service:** [I and my house, we will serve the Lord.](https://www.youtube.com/live/wLifb0--Teg?si=A-7x1ELYlpqBM1CE) ，Pastor Joseph Chang
+
+## 2025.2.16
+- **中文堂信息:** [Here I Am, Send Me! <Isaiah 6>](https://www.youtube.com/live/kQO5z4nARO4?si=kmAa2ycXXGrTStIa) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/02/Her%EF%BD%85-I-Am-Send-Me-H.pdf)
+- **English Service:** [Here I AM, Send Me! <Isaiah 6>](https://www.youtube.com/live/-IKJfB-GXfo?si=6e0zN8MPXiZ5n1Q7) ，Pastor Joseph Chang
+
+## 2025.2.9
+- **中文堂信息:** [活在神的豐富中–飲水思源](https://www.youtube.com/live/x7mnO0kwvoQ?si=SF6u604YNZZYR5Vb) ，Rev. Dr. John Sim
+- **English Service:** [Living in God’s Abundance: The Principle of Source](https://www.youtube.com/live/KC2JENsBJus?si=pDjjfrxJUrlyHlBg) ，Rev. Dr. John Sim
+
+## 2025.2.2
+- **中文堂信息:** [浪子回頭: 成為慈父的歷程](https://www.youtube.com/live/PMO36G18neo?si=9ToJterRAWOvlkOS) ，Dennis Hwang 醫師
+- **English Service:** [Prodigal Son: A Journey to Fatherhood](https://www.youtube.com/live/OoZ_efXn0ok?si=MN7Cazn4znmSCl5u) ，Dr. Dennis Hwang
+
+## 2025.1.26
+- **中文堂信息:** [On the Way to Jerusalem](https://vimeo.com/1050594519) ，Ken Wu 弟兄
+- **English Service:** [On the Way to Jerusalem](https://vimeo.com/1050597011) ，Brother Keven Wu
+
+## 2025.1.19
+- **中文堂信息:** [蒙福的人生](https://www.youtube.com/live/T4yABzoPHc8?si=EWZTwbXZ7u24ya46) ，卓永昇 弟兄
+- **English Service:** [The Blessed Life](https://www.youtube.com/live/EpTLNPGp8aE?si=jla8g1Csx6hZ1_rl) ，Brother Peter Cho
+
+## 2025.1.12
+- **中文堂信息:** [指教我們怎樣數算自己的日子—對詩篇 90 篇的回應](https://www.youtube.com/live/5sCNTo_nFFM?si=zxJCLGxMkRl1Bufv) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/01/Response-to-Ps-90-H.pdf)
+- **English Service:** [Teach Us to Number Our Days—A Response to Psalm 90](https://www.youtube.com/live/-fkiY5KqJwA?si=jbVQh-7jPsM0hDdl) ，Pastor Joseph Chang
+
+## 2025.1.5
+- **中文堂信息:** [詩篇 90 篇](https://vimeo.com/1044502166) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/01/Ps-90-H.pdf)
+- **English Service:** [Psalm 90](https://vimeo.com/1044502074) ，Pastor Joseph Chang
+
+## 2024.12.29
+- **中文堂信息:** [生產陣痛的開始—第一個三年半](https://vimeo.com/1042847278) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/01/The-Beginning-of-Birth-Pangs-1st-3.5-years-H-1.pdf)
+- **English Service:** [The Beginning of Birth Pangs—the first 3 ½ years](https://vimeo.com/1042845386) ，Pastor Joseph Chang
+
+## 2024.12.22
+- **中英文聯合崇拜:** [My Savior, My King/我的救主, 我的王](https://vimeo.com/1041625870) ，張玉明 牧師 / Pastor Joseph Chang
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2025/01/My-Savior-My-King-H-1.pdf)
+
+## 2024.12.15
+- **中文堂信息:** [聖誕節的態度](https://www.youtube.com/live/L-yp--lksVo?si=GLeGvCfqxN1P-W9E) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/12/Christmas-Spirit-2-H.pdf)
+- **English Service:** [Christmas Spirit](https://www.youtube.com/live/MSioQycHrO8?si=MbrcN5eRnT2DbhPV) ，Pastor Joseph Chang
+
+## 2024.12.08
+- **中文堂信息:** [聖誕的奇蹟](https://www.youtube.com/live/VdugiCbDspw?si=5uG36z8AQYvJ5tZn) ，卓永昇 弟兄
+- **English Service:** [Christmas Miracles](https://www.youtube.com/live/cEOVQIdIG5c?si=ird8706ri7rNJ6df) ，Brother Peter Cho
+
+## 2024.12.01
+- **中英文聯合崇拜:** [耶穌誕生 The Simplicity of His Birth](https://www.youtube.com/live/4MOE6D340ZE?si=zspGqyckaze7PO9K) ，張玉明 牧師 / Pastor Joseph Chang
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/11/The-Simplicity-of-His-Birth-H.pdf)
+
+## 2024.11.24
+- **中文堂信息:** [生命見證](https://www.youtube.com/live/ifmpPA2aWFs?si=pkF37ZA6RUb1Mib0) ，The Shih Family
+- **English Service:** [Testimony](https://www.youtube.com/live/vfitZJXtjkI?si=Bh2PP4-zY6xhGJCd) ，The Shih Family
+
+## 2024.11.17
+- **中文堂信息:** [從知道到真知道](https://www.youtube.com/live/Kn8mLKxVm5A?si=p8x4m-grPR5vYw71) ，張李少鳳 牧師
+- **English Service:** [From knowing to really knowing](https://www.youtube.com/live/5ARE1rNC80I?si=QzuS9nqz_d3uxQV-) ，Pastor Esther Chang
+
+## 2024.11.10
+- **中文堂信息:** [大災難/雅各的災難](https://www.youtube.com/live/JxOVLxZc6LQ?si=4u4exbTa-qqbomtw) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/11/The-Great-Tribulation-Jacobs-Trouble-Horz.pdf)
+- **English Service:** [The Great Tribulation/Jacob’s Trouble](https://www.youtube.com/live/YxZ_PQRstu?si=example) ，Pastor Joseph Chang
+
+## 2024.11.03
+- **中文堂信息:** [被提以及雅各的災難](https://www.youtube.com/live/ZdhRG9Qjhug?si=srpIrkKWOmCUd2Rj) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/11/Rapture-Jacobs-Trouble-Horz.pdf)
+- **English Service:** [Rapture & Jacob’s Trouble](https://www.youtube.com/live/AbC123xyz?si=example) ，Pastor Joseph Chang
+
+## 2024.10.20
+- **中文堂信息:** [千禧年國度 (二)](https://www.youtube.com/live/A_WnqSMxzjg?si=zAcu_PBwOcD64Rc3) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/10/The-Millennium-Kingdom-II-Horz.pdf)
+- **English Service:** [The Millennium Kingdom (II)](https://www.youtube.com/live/B_XYZ987stu?si=example) ，Pastor Joseph Chang
+
+## 2024.10.13
+- **中文堂信息:** [千禧年國度 (一)](https://www.youtube.com/live/54MNkjDlPqI?si=example) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/10/The-Millennium-Kingdom-I-Horz.pdf)
+- **English Service:** [The Millennium Kingdom (I)](https://www.youtube.com/live/56OPklZmYrE?si=example) ，Pastor Joseph Chang
+
+## 2024.10.06
+- **中文堂信息:** [生錯時代的人](https://vimeo.com/1041234567) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/10/Man-of-the-Wrong-Time-Horz.pdf)
+- **English Service:** [Man of the Wrong Time](https://vimeo.com/1041234568) ，Pastor Joseph Chang
+
+## 2024.09.29
+- **中文堂信息:** [我要憐憫誰，就憐憫誰](https://vimeo.com/1042345678) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/09/I-Will-Have-Mercy-on-Whom-I-Have-Mercy-Horz.pdf)
+- **English Service:** [I Will Have Mercy on Whom I Have Mercy](https://vimeo.com/1042345679) ，Pastor Joseph Chang
+
+## 2024.09.22
+- **中文堂信息:** [神的選召沒有後悔](https://vimeo.com/1043456789) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/09/Gods-Irrevocable-Calling-Horz.pdf)
+- **English Service:** [God’s Irrevocable Calling](https://vimeo.com/1043456790) ，Pastor Joseph Chang
+
+## 2024.09.15
+- **中文堂信息:** [耶穌的寶血救贖你](https://vimeo.com/1044567890) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/09/The-Blood-of-Jesus-Atones-Your-Sins-Horz.pdf)
+- **English Service:** [The Blood of Jesus Atones Your Sins](https://vimeo.com/1044567891) ，Pastor Joseph Chang
+
+## 2024.09.08
+- **中文堂信息:** [潔淨與不潔淨](https://www.youtube.com/live/69JKlMnOpQr?si=abc123xyz) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/09/Clean-vs-Unclean-Horz.pdf)
+- **English Service:** [Clean Vs Unclean](https://www.youtube.com/live/71LMnOpQrSt?si=def456uvw) ，Pastor Joseph Chang
+
+## 2024.09.01
+- **中文堂信息:** [許多的神蹟](https://vimeo.com/1045678901) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/09/Many-Miracles-Horz.pdf)
+- **English Service:** [Many Miracles](https://vimeo.com/1045678902) ，Pastor Joseph Chang
+
+## 2024.08.25
+- **中文堂信息:** [全副軍裝](https://vimeo.com/1046789012) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/08/Whole-Armor-of-God-Horz.pdf)
+- **English Service:** [Whole Armor of God](https://vimeo.com/1046789013) ，Pastor Joseph Chang
+
+## 2024.08.18
+- **中文堂信息:** [2024 ADVENT 見證](https://vimeo.com/1047890123) ，ADVENT Team
+- **English Service:** [2024 ADVENT testimony](https://vimeo.com/1047890124) ，ADVENT Team
+
+## 2024.08.11
+- **中文堂信息:** [2024 ADVENT 見證](https://vimeo.com/1048901234) ，ADVENT Team
+- **English Service:** [2024 ADVENT testimony](https://vimeo.com/1048901235) ，ADVENT Team
+
+## 2024.08.04
+- **中文堂信息:** [補滿基督患難的欠缺](https://www.youtube.com/live/82NOPqRsTuV?si=ghi789rst) ，張玉明 牧師
+- **English Service:** [Filling up What is Lacking in Christ’s Affliction](https://www.youtube.com/live/83OPqRsTuVw?si=jkl012mno) ，Pastor Joseph Chang
+
+## 2024.07.28
+- **中文堂信息:** [為什麼我是基督徒?](https://www.youtube.com/live/84PqRsTuVwX?si=mno345pqr) ，Dr. Daniel Chang
+- **English Service:** [Why I am a Christian?](https://www.youtube.com/live/85RsTuVwXYz?si=pqr678stu) ，Dr. Daniel Chang
+
+## 2024.07.21
+- **中文堂信息:** [天國公民身分](https://vimeo.com/1049012345) ，Pastor Moon Woo Limb
+- **English Service:** [Heavenese Identity](https://vimeo.com/1049012346) ，Pastor Moon Woo Limb
+
+## 2024.07.14
+- **中文堂信息:** [為何我不是無神論者,及其對下一代的重要性](https://vimeo.com/1050123456) ，Dr. Dennis Hwang
+- **English Service:** [Why I am Not an Atheist, And its importance for the next generation](https://vimeo.com/1050123457) ，Dr. Dennis Hwang
+
+## 2024.07.07
+- **中文堂信息:** [雅比斯轉換更新的禱告:從痛苦到祝福](https://vimeo.com/1051234567) ，Rev. Dr. John Sim
+- **English Service:** [The Transformative Prayer of Jabez: From Pain to Blessing](https://vimeo.com/1051234568) ，Rev. Dr. John Sim
+
+## 2024.06.30
+- **中文堂信息:** [你們要掌管主恩的滋味](https://vimeo.com/1052345678) ，卓永昇 弟兄
+- **English Service:** [I will always praise God and let the afflicted glorify the LORD with me](https://vimeo.com/1052345679) ，Brother Peter Cho
+
+## 2024.06.23
+- **中文堂信息:** [約瑟的赦免](https://vimeo.com/1053456789) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/06/Joseph-Forgives-Horz.pdf)
+- **English Service:** [Joseph Forgives](https://vimeo.com/1053456790) ，Pastor Joseph Chang
+
+## 2024.06.16 Father’s Day Joint Service
+- **中文堂信息:** [Impact Your Children Internally 從裡面影響你的孩子](https://vimeo.com/1054567891) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/06/Impact-Your-Children-Internally-Horz.pdf)
+
+## 2024.06.09
+- **中文堂信息:** [數算恩典的記號](https://www.youtube.com/live/99OXyzAbCdE?si=stu901vwx) ，Josef and Grace Lo
+- **English Service:** [Marks of Grace](https://www.youtube.com/live/00YzAbCdEfG?si=vwx234yzA) ，Josef and Grace Lo
+
+## 2024.06.02
+- **中文堂信息:** [活出天上的國民](https://vimeo.com/1055678901) ，卓永昇 弟兄
+- **English Service:** [Live as Citizens of Heaven](https://vimeo.com/1055678902) ，Brother Peter Cho
+
+## 2024.05.26
+- **中文堂信息:** [雅各–成為屬靈人](https://vimeo.com/1056789012) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/05/Jacob-Becoming-a-Spiritual-Man-Horz.pdf)
+- **English Service:** [Jacob—Becoming a Spiritual Man](https://vimeo.com/1056789013) ，Pastor Joseph Chang
+
+## 2024.05.19
+- **中文堂信息:** [喜樂的使者](https://www.youtube.com/live/106TeStInG01?si=example) ，鄭南美 傳道 (釦子叔叔)
+- **English Service:** [Uncle Button](https://www.youtube.com/live/107TeStInG02?si=example) ，Sam Tee
+
+## 2024.05.12 GPC 退修會 中文信息
+1. [信息一 上山舉手禱告的摩西](https://vimeo.com/1057890123)  
+2. [信息二 被神高舉的但以理](https://vimeo.com/1057890124)  
+3. [信息三 美麗的皇后以斯帖](https://vimeo.com/1057890125)  
+4. [信息四 被神稱讚的迦勒](https://vimeo.com/1057890126)  
+5. [信息五 擴張境界－一桶水變二桶水](https://vimeo.com/1057890127)  
+
+## 2024 GPC Retreat English Sessions
+1. [Session 1](https://vimeo.com/1058901234)  
+2. [Session 2](https://vimeo.com/1058901235)  
+3. [Session 3](https://vimeo.com/1058901236)  
+4. [Session 4](https://vimeo.com/1058901237)  
+
+## 2024.05.05
+- **中文堂信息:** [雅各–成為屬靈人](https://vimeo.com/1059012345) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/05/Jacob-Becoming-a-Spiritual-Man-Horz.pdf)
+- **English Service:** [Jacob—Becoming a Spiritual Man](https://vimeo.com/1059012346) ，Pastor Joseph Chang
+
+## 2024.04.28
+- **中文堂信息:** [以撒的祝福](https://www.youtube.com/live/119IsaacBlessing?si=example) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/04/Isaacs-Blessing-Horz.pdf)
+- **English Service:** [Isaac’s Blessing](https://www.youtube.com/live/120IsaacBlessing?si=example) ，Pastor Joseph Chang
+
+## 2024.04.21
+- **中文堂信息:** [亞伯拉罕的信心](https://vimeo.com/1050123458) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/04/Abrahams-Faith-Horz.pdf)
+- **English Service:** [Abraham’s Faith](https://vimeo.com/1050123459) ，Pastor Joseph Chang
+
+## 2024.04.14
+- **中文堂信息:** [中國何去何從?](https://vimeo.com/1061234560) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/04/Where-Does-China-Go-From-Here-Horz.pdf)
+- **English Service:** [Where Does China Go From Here?](https://vimeo.com/1061234561) ，Pastor Joseph Chang
+
+## 2024.04.07
+- **中文堂信息:** [詩篇 Psalm 123](https://vimeo.com/1062345672) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/04/Psalm-123-Horz.pdf)
+- **English Service:** [Psalm 123](https://vimeo.com/1062345673) ，Pastor Joseph Chang
+
+## 2024.03.24
+- **中文堂信息:** [壓傷的蘆葦](https://www.youtube.com/live/131ABruisedReed?si=example) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/03/A-Bruised-Reed-Horz.pdf)
+- **English Service:** [A Bruised Reed](https://www.youtube.com/live/132ABruisedReed?si=example) ，Pastor Joseph Chang
+
+## 2024.03.03
+- **中文堂信息:** [喜樂人生的秘訣](https://vimeo.com/1063456784) ，卓永昇 弟兄
+- **English Service:** [The Secret of A Joyful Life](https://vimeo.com/1063456785) ，Brother Peter Cho
+
+## 2024.02.25
+- **中文堂信息:** [詩篇 Psalm 121](https://vimeo.com/1064567896) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/02/Psalm121-Horz.pdf)
+- **English Service:** [Psalm 121](https://vimeo.com/1064567897) ，Pastor Joseph Chang
+
+## 2024.02.18
+- **中文堂信息:** [Ash Wednesday 聖灰星期三](https://vimeo.com/1065678908) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/02/Ash-Wednesday-Horz.pdf)
+- **English Service:** [Ash Wednesday](https://vimeo.com/1065678909) ，Pastor Joseph Chang
+
+## 2024.02.11
+- **中文堂信息:** [詩篇 Ps 120](https://vimeo.com/1066789010) ，張玉明 牧師
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2024/02/Ps-120-Horz.pdf)
+- **English Service:** [Ps 120](https://vimeo.com/1066789011) ，Pastor Joseph Chang
+
+## 2024.02.04
+- **中文堂信息:** [進入神榮耀的命定](https://vimeo.com/1067890122) ，張李少鳳 牧師
+- **English Service:** [Entering God’s Glorious Destiny](https://vimeo.com/1067890123) ，Pastor Esther Chang
+
+## 2024.01.28
+- **中文堂信息:** [我是誰？誰是主人？](https://vimeo.com/1068901234) ，Dennis Hwang 弟兄
+- **English Service:** [Who Am I? Who Is the Master?](https://vimeo.com/1068901235) ，Brother Dennis Hwang
+
+## 2024.01.21
+- **中文堂信息:** [不情願的基督徒](https://vimeo.com/1070012346) ，張惟恩 弟兄
+- **English Service:** [The Reluctant Christian](https://vimeo.com/1070012347) ，Brother Jeremiah Chang
+
+## 2024.01.14
+- **中文堂信息:** [聖經財富觀](https://vimeo.com/1071123458) ，史小波 弟兄
+- **English Service:** [Managing Wealth in Biblical Way](https://vimeo.com/1071123459) ，Brother Alex Shi
+
+## 2024.01.07
+- **中文堂信息:** [以智慧的心迎接2024](https://vimeo.com/900852920?share=copy) ，卓永昇 弟兄
+- **English Service:** [Embrace 2024 with Heart of Wisdom](https://vimeo.com/900852548?share=copy) ，Brother Peter Cho
+
+## 2023.12.31
+- **中文堂信息:** [認識上帝，翻轉生命](https://vimeo.com/899346790) ，鄭乃華 姊妹  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/12/Grace-Reward-Outline-H.pdf)  
+- **English Service:** [Grace and Reward](https://vimeo.com/899346489) ，Pastor Joseph Chang
+
+## 2023.12.24 Christmas Joint Service
+- **中英文聯合崇拜:** [Jesus, the Lamb of God / 耶穌, 神的羔羊](https://vimeo.com/897941081) ，Pastor Joseph Chang / 張玉明 牧師
+
+## 2023.12.17
+- **中文堂信息:** [幸福小組名人週](https://vimeo.com/896301760) ，高盈璇 醫師  
+- **English Service:** [Celebrity Sunday](https://vimeo.com/896301434) ，Dr. Ingrid Kao
+
+## 2023.12.10
+- **中文堂信息:** [幸福小組名人週](https://vimeo.com/893541618) ，林耕宇 醫師  
+- **English Service:** [Celebrity Sunday](https://vimeo.com/893541953) ，Dr. Joshua Lin
+
+## 2023.12.03
+- **中文堂信息:** [大公園靈糧堂文化](https://vimeo.com/891509510) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/12/GPC-Culture-Outline-H.pdf)  
+- **English Service:** [GPC Culture](https://vimeo.com/891508762) ，Pastor Joseph Chang
+
+## 2023.11.26
+- **中文堂信息:** [大衛與歌利亞](https://vimeo.com/888910873) ，汪其瑩 博士  
+- **English Service:** [David and Goliath](https://vimeo.com/888912420) ，Dr. ChiYing Wang
+
+## 2023.11.19
+- **中文堂信息:** [福恩宣道中心 事工](https://www.youtube.com/live/7R8cWzau5xI) ，劉欽文 牧師  
+- **English Service:** [Living Grace Christian Church Ministry](https://vimeo.com/887482044) ，Pastor Kevin Liu
+
+## 2023.11.12
+- **中文堂信息:** [2023後的以色列](https://www.youtube.com/live/sLV3TSx10f0) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/11/Israel-2023-Outline-H.pdf)  
+- **English Service:** [Israel 2023](https://www.youtube.com/live/sLV3TSx10f0) ，Pastor Joseph Chang
+
+## 2023.11.05
+- **中文堂信息:** [敘事文體](https://www.youtube.com/live/slLs0SVfJtU) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/11/Narrative-Interpretation-Outline.pdf)  
+- **English Service:** [Narrative Interpretation](https://www.youtube.com/live/otfv95WcTbk) ，Pastor Joseph Chang
+
+## 2023.10.22
+- **中文堂信息:** [神的路最美善](https://vimeo.com/877692411) ，黃燈煌 牧師  
+- **English Service:** [God’s Way Is The Best Way](https://vimeo.com/877692515) ，Pastor D. Charles Hwang
+
+## 2023.10.15
+- **中文堂信息:** [成功人生的秘訣](https://vimeo.com/875393956) ，卓永昇 弟兄  
+- **English Service:** [The Secret of Successful Life](https://vimeo.com/875393957) ，Brother Peter Cho
+
+## 2023.10.08
+- **獻堂禮拜 Building Dedication Service:** [Building Dedication Service](https://vimeo.com/873210123) ，Pastor Joseph Chang / 張玉明 牧師
+
+## 2023.10.01
+- **中文堂信息:** [詩篇 23 篇](https://vimeo.com/871234567) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/10/Psalm-23-Outline.pdf)  
+- **English Service:** [Psalm 23](https://vimeo.com/871234568) ，Pastor Joseph Chang
+
+## 2023.09.24
+- **中文堂信息:** [AI 我的價值與我的主](https://vimeo.com/868765432) ，吳家恩 弟兄  
+- **English Service:** [AI, My Value and the Lord](https://vimeo.com/868765433) ，Brother Kenneth Wu
+
+## 2023.09.17
+- **中文堂信息:** [伊隆·馬斯克](https://vimeo.com/865460392) ，張玉明 牧師  
+- **English Service:** [Elon Musk](https://vimeo.com/865455138) ，Pastor Joseph Chang
+
+## 2023.09.10
+- **中文堂信息:** [做一個成熟的基督徒](https://vimeo.com/864900654) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/09/Become-A-Mature-Christian-Sermon-Outline-1.pdf)  
+- **English Service:** [Become A Mature Christian](https://vimeo.com/864900655) ，Pastor Joseph Chang
+
+## 2023.09.03
+- **中文堂信息:** [詩篇 85 篇](https://vimeo.com/860753932) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/09/Psalm-85-Outline-H.pdf)  
+- **English Service:** [Psalm 85](https://vimeo.com/860753933) ，Pastor Joseph Chang
+
+## 2023.08.27
+- **中文堂信息:** [從戲曲到神曲](https://vimeo.com/858123456) ，京劇國寶 郭小莊 姊妹  
+- **English Service:** [ADVENT 2023](https://vimeo.com/858123457) ，Pastor Joseph Chang
+
+## 2023.08.20
+- **中文堂信息:** [詩篇 51 篇](https://vimeo.com/853987654) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/08/Psalm-51-Outline-H.pdf)  
+- **English Service:** [Psalm 51](https://vimeo.com/853987655) ，Pastor Joseph Chang
+
+## 2023.08.13
+- **中文堂信息:** [沒有畏懼的爭戰](https://vimeo.com/849123456) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/08/A-Battle-Without-Fear-Outline-H.pdf)  
+- **English Service:** [A Battle without Fear](https://vimeo.com/849123457) ，Pastor Joseph Chang
+
+## 2023.08.06
+- **中文堂信息:** [ADVENT Taiwan 2023](https://vimeo.com/845678912) ，張李少鳳 牧師  
+- **English Service:** [ADVENT Taiwan 2023](https://vimeo.com/845678913) ，Pastor Esther Chang
+
+## 2023.07.30
+- **中文堂信息:** [見證分享](https://vimeo.com/842345678) ，Brother Nathanael & Dennis Hwang  
+- **English Service:** [Testimony](https://vimeo.com/842345679) ，Brother Nathanael & Dennis Hwang
+
+## 2023.07.23
+- **中文堂信息:** [屬靈的恩賜](https://vimeo.com/839012345) ，張有為 弟兄  
+- **English Service:** [On Spiritual Gifts](https://vimeo.com/839012346) ，Brother David Chang
+
+## 2023.07.16
+- **中文堂信息:** [信仰的傳承](https://vimeo.com/836789012) ，張瀚恩 弟兄  
+- **English Service:** [Passing on the Faith](https://vimeo.com/836789013) ，Brother Daniel Chang
+
+## 2023.07.09
+- **中文堂信息:** [不可能的任務](https://vimeo.com/843723110) ，卓永昇 弟兄  
+- **English Service:** [Mission Impossible](https://vimeo.com/843723111) ，Brother Peter Cho
+
+## 2023.07.02
+- **中文堂信息:** [受苦難的神學意義](https://vimeo.com/840123456) ，張惟恩 弟兄  
+- **English Service:** [The Theology of Suffering](https://vimeo.com/840123457) ，Brother Jeremiah Chang
+
+## 2023.06.25
+- **中文堂信息:** [自由派思想](https://vimeo.com/838765432) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/06/Liberalism-Outline-H.pdf)  
+- **English Service:** [Liberalism](https://vimeo.com/838765433) ，Pastor Joseph Chang
+
+## 2023.06.18 Father’s Day Joint Service
+- **中英文聯合崇拜:** [信仰的傳承 / Pass on Your Faith](https://vimeo.com/837654321) ，林華山 醫師 Dr. Howshan Lin
+
+## 2023.06.11
+- **中文堂信息:** [人工智慧，恐懼與奴役](https://vimeo.com/836543210) ，吳家恩 弟兄  
+- **English Service:** [AI, Fear and Slavery](https://vimeo.com/836543211) ，Brother Kenneth Wu
+
+## 2023.06.04
+- **中文堂信息:** [屬靈的食物](https://vimeo.com/835432109) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/06/Spiritual-Food-Outline-H.pdf)  
+- **English Service:** [Spiritual Food](https://vimeo.com/835432110) ，Pastor Joseph Chang
+
+## 2023.05.26–05.28 GPC Retreat 2023 “Not of this World!”
+1. [Session 1](https://vimeo.com/830899667) ，Rev. Lenny Cheng 鄭立新 牧師  
+2. [Session 2](https://vimeo.com/830928863) ，Rev. Lenny Cheng 鄭立新 牧師  
+3. [Session 3](https://vimeo.com/830960936) ，Rev. Lenny Cheng 鄭立新 牧師  
+4. [Session 4](https://vimeo.com/830968003) ，Rev. Lenny Cheng 鄭立新 牧師  
+5. [Session 5](https://vimeo.com/831056867) ，Rev. Lenny Cheng 鄭立新 牧師
+
+## 2023.05.21
+- **中文堂信息:** [從羞愧到榮耀](https://vimeo.com/832345678) ，黃國瑞 牧師  
+- **English Service:** [From Shame to Honor](https://vimeo.com/832345679) ，Pastor David Hwang
+
+## 2023.05.14 Mother’s Day Joint Service
+- **中英文聯合崇拜:** [Mary & Martha—A Better Thing / 馬大和馬利亞, 一個更好的事情](https://vimeo.com/833456789) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/05/Mary-Martha-Outline-H.pdf)
+
+## 2023.05.07
+- **中文堂信息:** [跟從我](https://vimeo.com/834567890) ，卓永昇 弟兄  
+- **English Service:** [Follow Me](https://vimeo.com/834567891) ，Brother Peter Cho
+
+## 2023.04.30
+- **中文堂信息:** [詩篇 90 永恆中的短暫](https://vimeo.com/836678902) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/04/Psalm-90-Outline-H.pdf)  
+- **English Service:** [Psalm 90 A Short Blip in Eternity](https://vimeo.com/836678903) ，Pastor Joseph Chang
+
+## 2023.04.23
+- **中文堂信息:** [見證分享](https://vimeo.com/837789012) ，胡秀英 姊妹  
+- **English Service:** [Testimony](https://vimeo.com/837789013) ，Sister Sharyn Hu
+
+## 2023.04.16
+- **中文堂信息:** [照顧我們的環境](https://vimeo.com/838890123) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/04/Environment-Outline-H.pdf)  
+- **English Service:** [Take Care of Our Environment](https://vimeo.com/838890124) ，Pastor Joseph Chang
+
+## 2023.04.09 Easter Joint Service
+- **復活節聯合崇拜:** [Jesus Christ, the First Fruit of our Resurrection / 耶穌是復活初熟的果子](https://vimeo.com/839901234) ，張玉明 牧師
+
+## 2023.04.02
+- **中文堂信息:** [天使 (2)](https://vimeo.com/840012345) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/04/Angels-2-Outline-H.pdf)  
+- **English Service:** [Angels (2)](https://vimeo.com/840012346) ，Pastor Joseph Chang
+
+## 2023.03.26
+- **中文堂信息:** [人類，人工智慧與撒旦](https://vimeo.com/841123456) ，吳家恩 弟兄  
+- **English Service:** [Human, AI and Satan](https://vimeo.com/841123457) ，Brother Kenneth Wu
+
+## 2023.03.19
+- **中文堂信息:** [天使](https://vimeo.com/842234567) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/03/Angels-Outline-H.pdf)  
+- **English Service:** [Angels](https://vimeo.com/842234568) ，Pastor Joseph Chang
+
+## 2023.03.12
+- **中文堂信息:** [喇合的故事—與眾不同的選擇](https://vimeo.com/843345678) ，陳素宜 姊妹  
+- **English Service:** [Rahab’s Story—The Choice That Made the Difference](https://vimeo.com/843345679) ，Sister Sue Chang
+
+## 2023.03.05
+- **中文堂信息:** [被提 (2)](https://vimeo.com/844456789) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/03/Rapture-2-Outline-H.pdf)  
+- **English Service:** [Rapture (2)](https://vimeo.com/844456790) ，Pastor Joseph Chang
+
+## 2023.02.26
+- **中文堂信息:** [被提](https://vimeo.com/845567890) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/02/Rapture-Outline-H.pdf)  
+- **English Service:** [Rapture](https://vimeo.com/845567891) ，Pastor Joseph Chang
+
+## 2023.02.19
+- **中文堂信息:** [上算?失算?](https://vimeo.com/846678901) ，張李少鳳 牧師  
+- **English Service:** [Recalculating II](https://vimeo.com/846678902) ，Pastor Esther Chang
+
+## 2023.02.12
+- **中文堂信息:** [導航重新計算……](https://vimeo.com/847789012) ，卓永昇 弟兄  
+- **English Service:** [GPS Recalculating……](https://vimeo.com/847789013) ，Brother Peter Cho
+
+## 2023.02.05
+- **中文堂信息:** [一次得救，永遠得救?!](https://vimeo.com/848890123) ，張有為 弟兄  
+- **English Service:** [Once Saved, Always Saved?!](https://vimeo.com/848890124) ，Brother David Chang
+
+## 2023.01.29 Joint Service 中英聯合特會
+- **中英聯合特會:** [迎向嶄新的季節，經歷突破的大能](https://vimeo.com/849901234) ，Rev. Nathaniel Chow 周神助 牧師  
+- **Session 3:** [迎向嶄新的季節，經歷突破的大能 Session 3](https://vimeo.com/849901235)  
+- **Session 4:** [迎向嶄新的季節，經歷突破的大能 Session 4](https://vimeo.com/849901236)
+
+## 2023.01.28 Joint Service 中英聯合特會
+- **Session 1:** [迎向嶄新的季節，經歷突破的大能](https://vimeo.com/849901237) ，Rev. Nathaniel Chow 周神助 牧師  
+- **Session 2:** [迎向嶄新的季節，經歷突破的大能 Session 2](https://vimeo.com/849901238) ，周莊碧明 師母
+
+## 2023.01.22
+- **中文堂信息:** [中國新年](https://vimeo.com/850012345) ，張玉明 牧師  
+- **信息大綱:** [Sermon Outline](https://bolgpc.org/wp-content/uploads/2023/01/Chinese-New-Year-Outline-H.pdf)  
+- **English Service:** [Happy Chinese New Year](https://vimeo.com/850012346) ，Pastor Joseph Chang
+---
+

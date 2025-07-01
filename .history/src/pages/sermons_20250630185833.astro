@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/Sections/PageHeader.astro";
+import Sermons from "../content/sermons.md";
+import sermons from '../data/sermons.json';
+---
+<BaseLayout title="Archived Sermons 2025">
+  <h1 class="text-3xl font-bold mb-6">ARCHIVED SERMONS 2025 歷年主日信息</h1>
+
+  {sermons.map((s) => (
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-2">{s.date}</h2>
+
+      <ul class="list-disc list-inside space-y-1">
+        <li>
+          <strong>中文堂信息:</strong>
+          <a href={s.zh.link} target="_blank" rel="noopener">{s.zh.title}</a> ，{s.zh.speaker}
+        </li>
+        {s.outline && (
+          <li>
+            <strong>信息大綱:</strong>
+            <a href={s.outline} target="_blank" rel="noopener">Sermon Outline</a>
+          </li>
+        )}
+        <li>
+          <strong>English Service:</strong>
+          <a href={s.en.link} target="_blank" rel="noopener">{s.en.title}</a> ，{s.en.speaker}
+        </li>
+      </ul>
+    </section>
+  ))}
+</Layout>

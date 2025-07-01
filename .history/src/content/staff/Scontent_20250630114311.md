@@ -1,0 +1,54 @@
+
+<div class="overflow-x-auto">
+  <table class="min-w-full bg-white rounded-lg overflow-hidden">
+    <thead class="bg-blue-50">
+      <tr>
+        <th class="px-6 py-3 text-left text-sm font-semibold text-blue-700">Role</th>
+        <th class="px-6 py-3 text-left text-sm font-semibold text-blue-700">Name</th>
+        <th class="px-6 py-3 text-left text-sm font-semibold text-blue-700">Email</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">Children Ministry Director</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Sharyn Hu</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:husharyn@bolgpc.org">husharyn@bolgpc.org</a></td>
+      </tr>
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">English College & Youth Ministry</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Pricilla Chang</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:priscilla.chang77@gmail.com">priscilla.chang77@gmail.com</a></td>
+      </tr>
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">English College & Youth Ministry</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Nehemiah Chang</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:locke2400@gmail.com">locke2400@gmail.com</a></td>
+      </tr>
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">Senior Pastor Assistant</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Luke Yu</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:lukeyu@bolgpc.org">lukeyu@bolgpc.org</a></td>
+      </tr>
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">Secretary</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Niki Chiou</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:secretary@bolgpc.org">secretary@bolgpc.org</a></td>
+      </tr>
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">Church Accountant</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Queena Ken</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:queenaken@bolgpc.org">queenaken@bolgpc.org</a></td>
+      </tr>
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">Director of English Classes</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Wendy Hwang</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:wendyhayashi@yahoo.com">wendyhayashi@yahoo.com</a></td>
+      </tr>
+      <tr class="hover:bg-blue-50">
+        <td class="px-6 py-4 text-sm text-gray-800">Chinese School Principal</td>
+        <td class="px-6 py-4 text-sm text-gray-800">Sharyn Hu</td>
+        <td class="px-6 py-4 text-sm text-blue-600 hover:underline"><a href="mailto:husharyn@bolgpc.org">husharyn@bolgpc.org</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

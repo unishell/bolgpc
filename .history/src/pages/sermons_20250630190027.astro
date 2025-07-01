@@ -1,0 +1,52 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/Sections/PageHeader.astro";
+import Sermons from "../content/sermons.md";
+import sermons from '../data/sermons.json';
+---
+
+<BaseLayout
+  title="Church Bulletin - BOLGPC"
+  description="Archived Bulletin"
+>
+  <PageHeader 
+    title="Church Bulletin" 
+    subtitle="Church Bulletin"
+    backgroundImage=""
+  />
+   <div class="container">
+      <div class="max-w-4xl text-2xl mx-auto"> 
+        <article class="prose prose-lg max-w-none prose-headings:text-gray-900 prose-h1:text-3xl prose-h2:text-2xl prose-h3:text-xl prose-h4:text-lg prose-p:text-gray-700 prose-li:text-gray-700 prose-strong:text-gray-900 prose-a:text-primary-600 hover:prose-a:text-primary-700">
+      <Sermons />
+    </article>
+      </div>
+    </div>
+
+</BaseLayout>
+
+<BaseLayout title="Archived Sermons 2025">
+  <h1 class="text-3xl font-bold mb-6">ARCHIVED SERMONS 2025 歷年主日信息</h1>
+
+  {sermons.map((s) => (
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-2">{s.date}</h2>
+
+      <ul class="list-disc list-inside space-y-1">
+        <li>
+          <strong>中文堂信息:</strong>
+          <a href={s.zh.link} target="_blank" rel="noopener">{s.zh.title}</a> ，{s.zh.speaker}
+        </li>
+        {s.outline && (
+          <li>
+            <strong>信息大綱:</strong>
+            <a href={s.outline} target="_blank" rel="noopener">Sermon Outline</a>
+          </li>
+        )}
+        <li>
+          <strong>English Service:</strong>
+          <a href={s.en.link} target="_blank" rel="noopener">{s.en.title}</a> ，{s.en.speaker}
+        </li>
+      </ul>
+    </section>
+  ))}
+</Layout>

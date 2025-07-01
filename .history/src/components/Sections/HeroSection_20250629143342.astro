@@ -1,0 +1,24 @@
+---
+import Button from "../UI/Button.astro";
+
+export interface Props {
+  title?: string;
+  subtitle?: string;
+  backgroundImage?: string;
+  ctaText?: string;
+  ctaLink?: string;
+  secondaryCtaText?: string;
+  secondaryCtaLink?: string;
+}
+
+const {
+  title = "Welcome to Our Church",
+  subtitle = "A place of worship, community, and spiritual growth",
+  backgroundImage = "/uploads/hero-bg.jpg",
+  ctaText = "Plan Your Visit",
+  ctaLink = "/im-new",
+  secondaryCtaText = "Watch Sermons",
+  secondaryCtaLink = "/sermons",
+} = Astro.props;
+---
+

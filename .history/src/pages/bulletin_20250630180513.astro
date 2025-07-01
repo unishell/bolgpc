@@ -1,0 +1,22 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/Sections/PageHeader.astro";
+import Bulletin from "../content/bulletin.md";
+---
+
+<BaseLayout
+  title="Giving - BOLGPC"
+  description="Support our church's mission and ministries through your generous giving. Learn about the different ways to give."
+>
+  <PageHeader 
+    title="Giving" 
+    subtitle="Supporting our mission through generosity"
+    backgroundImage="/uploads/giving-header-bg.webp"
+  />
+   <div class="container">
+      <div class="max-w-4xl mx-auto"> 
+        <Bulletin />
+      </div>
+    </div>
+
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+name: "Pastor Esther Chang"
+title: "Founding Pastor"
+image: "/uploads/staff/founding-paster.jpg"
+email: "estherchang@bolgpc.org"
+phone: "none"
+bio: "Behind the scenes of Pastor Chang’s ministry is Mrs. Esther Chang, the dedicated soul whose service undergirds every aspect of outreach."
+order: 2
+draft: false
+---
+
+# Work Experience
+
+* **2009–Present**: Founding Pastor, Bread of Life Great Park Church, Irvine, CA
+* **2004–2008**: Pastor, Evangelical Formosan Church of Irvine, Irvine, CA
+* **1989–2000**: Founding Pastor, Plano Chinese Alliance Church, Plano, TX
+
+# Education
+
+* **1974**: B.S. in Nursing, China Medical College, Taiwan
+
+# Biography of Esther Chang
+
+Behind the scenes of Pastor Chang’s ministry is Mrs. Esther Chang, the dedicated soul whose service undergirds every aspect of outreach. After earning her nursing degree from China Medical College, she served as Head Nurse at the Infant Emergency Treatment Center from 1975 to 1983. She then joined pastoral ministry, serving at:\*\*
+
+* **Plano Chinese Alliance Church** (1989–2000) as Founding Pastor
+* **Evangelical Formosan Church of Irvine** (2004–2008) as Pastor
+* **Bread of Life Great Park Church** (2009–Present) as Founding Pastor
+
+Always wearing a smile and the heart of a servant, Mrs. Chang pours life into others, leads people to Christ, and walks alongside believers in their spiritual growth. She currently serves as the matriarch of Bread of Life Great Park Church, ministering to the community through the "Mom in Touch" women’s growth class and English conversation class, and opening her home as an outreach center to shepherd the flock.
+
+**Email:** [estherchang@bolgpc.org](mailto:estherchang@bolgpc.org)

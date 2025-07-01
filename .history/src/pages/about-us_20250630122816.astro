@@ -1,0 +1,399 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/Sections/PageHeader.astro";
+import StaffList from "../components/Sections/StaffList.astro";
+---
+
+<BaseLayout
+  title="About Us - BOLGPC"
+  description="Learn about our church's history, mission, values, and the people who make our community special."
+>
+  <PageHeader 
+    title="About Us" 
+    subtitle="Our History, Mission, and Values"
+    backgroundImage="/uploads/about-header.jpg"
+  />
+  
+  <!-- Mission & Vision -->
+  <section class="py-16">
+    <div class="container">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-3xl md:text-4xl font-bold mb-6">Our Mission</h2>
+          <p class="text-xl text-gray-700 mb-8">
+            We commit to uphold the Ten Commandments as the foundational ethical and spiritual guide for our lives, loving God with all our heart, soul, mind, and strength, and loving our neighbors as ourselves (Exodus 20).
+          </p>
+          
+          <h2 class="text-3xl md:text-4xl font-bold mb-6">Our Vision</h2>
+          <p class="text-xl text-gray-700 mb-8">
+            To cultivate a community empowered by the spirit of the Ten Commandments—honoring God above all, nurturing respect and integrity among one another, and extending Christ’s compassion through humble service to the world.
+          </p>
+        </div>
+        
+        <div>
+          <img 
+            src="/uploads/faith.jpg" 
+            alt="Worship at our church" 
+            class="rounded-lg shadow-lg object-cover w-full h-full"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Core Values -->
+  <section class="py-16 bg-gray-50">
+    <div class="container">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Our Core Values</h2>
+        <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+          These principles guide everything we do as a church community
+        </p>
+      </div>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-primary-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">1</h3>
+          <p class="text-gray-700">
+            We believe that the Bible is the only divinely inspired, inerrant Word of God. It is the absolute standard for a believer’s life and is the only comprehensive truth, beneficial for teaching, reproof, correction, and for training in righteousness.
+          </p>
+        </div>
+        
+        <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-secondary-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-secondary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">2</h3>
+          <p class="text-gray-700">
+            We believe that there is one God, who is eternally coexistent in three (3) persons: the Father, the Son, and the Holy Spirit.
+          </p>
+        </div>
+        
+        <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-accent-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-accent-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">3</h3>
+          <p class="text-gray-700">
+            We believe that God, the Father, is the creator of heavens and earth and the designer of the eternal plan of salvation.
+        </div>
+        
+        <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-green-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">4</h3>
+          <p class="text-gray-700">
+            We believe that God, the Son, our Lord Jesus Christ, is the Father’s only begotten Son. He completed the work of salvation by coming into the world and becoming flesh, having been conceived by the Holy Spirit, born of a virgin (Mary). He represents the same essence and nature of the Father, and is uniquely God and Man. He preached good news on earth, healed the sick, raised the dead, cast out demons, and was crucified and died on a cross for the sin of the world.
+          </p>
+        </div>
+        
+        <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-purple-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-purple-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">5</h3>
+          <p class="text-gray-700">
+            He took the punishment for sin upon himself so that we may enjoy peace. By his wounds we are healed. On the third day, He rose again from the dead and ascended into heaven and is seated at the right hand of God the Father, and will return to judge the world.
+          </p>
+        </div>
+        
+        <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-yellow-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-yellow-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">6</h3>
+          <p class="text-gray-700">
+            We believe that God, the Holy Spirit, has been given to believers as an assurance of salvation and indwells in every believer, empowering them to know, understand, and walk in truth and to experience a sanctified life of love and service to God, his people, and the world. The Holy Spirit also, at his graciously will, grants to the believers the gifts for the edification of the Church, the Body of Christ.
+          </p>
+        </div>
+
+         <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-yellow-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-yellow-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">7</h3>
+          <p class="text-gray-700">
+            We believe that the Church is the Body of Christ, consisting of every born-again Christian, and is the chosen instrument of God in fulfilling the Great Commission on earth.
+          </p>
+        </div>
+
+          <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-yellow-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-yellow-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">8</h3>
+          <p class="text-gray-700">
+            We believe that mankind is a fallen creation as a result of sin and remains in a degenerated state, devoid of personal relationship with God and can only be restored and justified through faith in Jesus Christ, who is the only hope of mankind for the forgiveness of sin, the sanctification, and the eternal life.
+          </p>
+        </div>
+
+          <div class="bg-white p-8 rounded-lg shadow-sm">
+         <div class="w-16 h-16 rounded-full bg-green-200 flex items-center justify-center mb-6">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+            />
+          </svg>
+        </div>
+          <h3 class="text-xl font-bold mb-3">9</h3>
+          <p class="text-gray-700">
+             We believe in the imminent, glorious, bodily return of Jesus Christ to the earth. He will then judge the world, through the resurrection of both believers and nonbelievers, with believers being granted the blessing of everlasting life and nonbelievers being condemned to everlasting separation from God and damnation of hell.
+          </p>
+        </div>
+
+          <div class="bg-white p-8 rounded-lg shadow-sm">
+          <div class="w-16 h-16 rounded-full bg-yellow-100 flex items-center justify-center mb-6">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-yellow-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold mb-3">10</h3>
+          <p class="text-gray-700">
+            We believe that marriage as defined in the Bible is between one man and one woman.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Church History -->
+  <section class="py-16">
+    <div class="container">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Our History</h2>
+        <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+          The story of how our church has grown and evolved over the years
+        </p>
+      </div>
+      
+      <div class="max-w-4xl mx-auto">
+        <div class="relative pl-8 sm:pl-16 py-6 group">
+          <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+            <time class="sm:w-28 text-xs text-gray-500 uppercase">2008</time>
+            <div>
+              <h3 class="text-xl font-bold text-gray-900">Church Founded</h3>
+              <p class="text-gray-700">
+                Coldharbor
+              </p>
+            </div>
+          </div>
+          
+          <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2009</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Northwood Community Center</h3>
+                <p class="text-gray-700">
+                  First Church Offices & New Home Base
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2010</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Woodbury Community Center</h3>
+                <p class="text-gray-700">
+                  
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2012</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Wrigley Office (Irvine)</h3>
+                <p class="text-gray-700">
+                 
+                </p>
+              </div>
+            </div>
+          </div>
+
+            <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2013</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Wrigley Sanctuary (Irvine)</h3>
+                <p class="text-gray-700">
+                 
+                </p>
+              </div>
+            </div>
+          </div>
+
+            <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2014</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Worship moves to Room 103</h3>
+                <p class="text-gray-700">
+                 
+                </p>
+              </div>
+            </div>
+          </div>
+
+            <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2012</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Wrigley Office (Irvine)</h3>
+                <p class="text-gray-700">
+                 
+                </p>
+              </div>
+            </div>
+          </div>
+
+            <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2016</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Children Church begins</h3>
+                <p class="text-gray-700">
+                 New Church Offices at 9943 Muirlands
+                </p>
+              </div>
+            </div>
+          </div>
+
+            <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2018</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">New Church Building at Faraday (Irvine)</h3>
+                <p class="text-gray-700">
+                 
+                </p>
+              </div>
+            </div>
+          </div>
+
+            <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">2021</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">New Sanctuary Construction.( in progress)</h3>
+                <p class="text-gray-700">
+                 
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="relative pl-8 sm:pl-16 py-6 group">
+            <div class="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-7 before:h-full before:px-px before:bg-gray-300 before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-7 after:w-4 after:h-4 after:bg-primary-600 after:border-4 after:border-white after:rounded-full after:-translate-x-1/2 after:translate-y-1.5">
+              <time class="sm:w-28 text-xs text-gray-500 uppercase">Present</time>
+              <div>
+                <h3 class="text-xl font-bold text-gray-900">Continuing the Mission</h3>
+                <p class="text-gray-700">
+                  Today, we continue to grow and adapt while staying true to our mission of knowing Christ and making Him known.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Leadership Team Preview -->
+  <section class="py-16 bg-gray-50">
+    <div class="container">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Meet Our Leadership</h2>
+        <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+          Our dedicated staff and leadership team serve our congregation with passion and commitment
+        </p>
+      </div>
+      
+      <!-- Show limited staff preview -->
+      <StaffList showAll={false} limit={3} />
+      
+      <div class="mt-12 text-center">
+        <a 
+          href="/staff" 
+          class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-white bg-primary-600 rounded-md shadow-sm hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2"
+        >
+          Meet All Our Staff
+        </a>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Statement of Faith -->
+  <section class="py-16">
+    <div class="container">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">What We Believe</h2>
+        <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+          Our church adheres to these fundamental Christian beliefs
+        </p>
+      </div>
+      
+      <div class="max-w-4xl mx-auto prose prose-lg">
+        <h3>The Bible</h3>
+        <p>
+          We believe the Bible is God's Word, inspired by the Holy Spirit, without error in the original manuscripts, and the final authority for all Christian faith and life.
+        </p>
+        
+        <h3>God</h3>
+        <p>
+          We believe in one God who exists eternally in three persons: Father, Son, and Holy Spirit. Each person is fully God, yet there is one God.
+        </p>
+        
+        <h3>Jesus Christ</h3>
+        <p>
+          We believe Jesus Christ is fully God and fully human. He was born of a virgin, lived a sinless life, died on the cross as the substitute for sinners, rose bodily from the grave, and ascended to heaven where He now serves as our High Priest and Advocate.
+        </p>
+        
+        <h3>Holy Spirit</h3>
+        <p>
+          We believe the Holy Spirit convicts the world of sin, regenerates believers, indwells them, and empowers them for godly living and service.
+        </p>
+        
+        <h3>Salvation</h3>
+        <p>
+          We believe salvation is by grace alone, through faith alone, in Christ alone. Good works are the necessary fruit of true faith but are not the basis of our right standing before God.
+        </p>
+        
+        <h3>The Church</h3>
+        <p>
+          We believe the church is the body of Christ, consisting of all true believers. Its mission is to worship God, build up believers in their faith, and share the gospel with the world.
+        </p>
+        
+        <h3>The Future</h3>
+        <p>
+          We believe in the personal, visible return of Jesus Christ, the resurrection of the dead, the final judgment, and the eternal state of blessing for the righteous and punishment for the unrighteous.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
