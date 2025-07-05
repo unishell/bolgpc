@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/Sections/PageHeader.astro";
+import Sermon from "../content/sermons.md";
+import sermons from '../data/sermons.json';
+---
+
+<BaseLayout
+  title="Sermon Outline - BOLGPC"
+  description="Archived Sermons"
+>
+  <PageHeader 
+    title="Church Sermons" 
+    subtitle="Church Sermons"
+    backgroundImage="/uploads/about-header.jpg"
+  />
+   <div class="container">
+    <a href="https://bolgpc.org/wp-content/uploads/2025/06/Where-do-we-go-from-here-Horz.pdf" target="_blank" rel="noopener noreferrer">
+      <div class="bg-gray-50 p-8 rounded-lg shadow-sm">
+        <h3 class="text-xl font-bold mb-3 underline">Our Latest Sermon Outline</h3>
+      </div>
+    </a>
+ <a href="https://bolgpc.org/wp-content/uploads/2025/06/Where-do-we-go-from-here-Horz.pdf" target="_blank" rel="noopener noreferrer">
+      <div class="bg-gray-50 p-8 rounded-lg shadow-sm">
+        <h3 class="text-xl font-bold mb-3 underline">Our Latest Sermon Outline</h3>
+      </div>
+    </a>
+      <div class="max-w-4xl text-2xl mx-auto"> 
+        <article class="prose prose-lg max-w-none prose-headings:text-gray-900 prose-h1:text-3xl prose-h2:text-2xl prose-h3:text-xl prose-h4:text-lg prose-p:text-gray-700 prose-li:text-gray-700 prose-strong:text-gray-900 prose-a:text-primary-600 hover:prose-a:text-primary-700">
+  
+    </article>
+      </div>
+    </div>
+
+</BaseLayout>

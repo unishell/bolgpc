@@ -1,0 +1,283 @@
+---
+// Define the navigation items
+const navItems = [
+  { text: "Home", href: "/" },
+  { text: "About Us", href: "/about-us" },
+  { text: "Staff", href: "/staff" },
+  { text: "Ministries", href: "/ministries" },
+  { text: "Sermons", href: "/sermons" },
+  { text: "Events", href: "/events" },
+  { text: "Blog", href: "/blog" },
+  { text: "I'm New", href: "/im-new" },
+  { text: "Contact", href: "/contact" },
+  { text: "Giving", href: "/giving" },
+];
+
+// Get the current URL path to highlight the active link
+const currentPath = Astro.url.pathname;
+---
+<header class="header" role="banner">
+				<div class="header-live-alert-container"></div>
+		
+				<script>
+					$(document).ready(function() {
+						console.log($.ajax({  
+							type: 'POST',  
+							url: 'https://brentwood.church/wp-admin/admin-ajax.php',  
+							data: { 
+								action : 'load_live_alert'
+							},  
+							success: function(textStatus){
+							   $( '.header-live-alert-container' ).html( textStatus );
+							}  
+						}));
+					});
+				</script>
+				<div class="top-bar">
+					<div class="grid-container">
+						<div class="grid-x grid-padding-x">
+							<div class="cell auto">
+														        		<div class="top-bar-mp">
+									        <mpp-user-login customcss="https://brentwoodbaptist.com/mp-css/menu-top.css">
+												<a href="https://brentwoodbaptist.com/account/my-household/">My Household</a>
+<a href="https://brentwoodbaptist.com/account/contribution-statement/">My Contribution Statements</a>
+<a href="https://brentwoodbaptist.com/account/groups/">My Groups</a>
+<a href="https://brentwoodbaptist.com/account/invoices/">My Invoices</a>
+<a href="https://brentwoodbaptist.com/account/pledges/">My Pledges</a>
+<a href="https://brentwoodbaptist.com/account/subscriptions/">My Subscriptions</a>
+<a href="https://brentwoodbaptist.com/account/online-directory/">Online Directory</a>
+											</mpp-user-login>
+										</div>
+																</div>
+							<div class="cell shrink">
+															        <div class="search-container">
+						        		<div id="___gcse_1"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id2"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id51" class="gstl_51 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti51" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" aria-label="search" id="gsc-i-id2" dir="ltr" spellcheck="false" style="width: 100%; padding: 0px; border: medium; margin: -0.0625em 0px 0px; height: 1.25em; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: currentcolor;" placeholder="Search"></td><td class="gsib_b"><div class="gsst_b" id="gs_st51" dir="ltr"><a class="gsst_a" href="javascript:void(0)" title="Clear search box" role="button" style="display: none;"><span class="gscb_a" id="gs_cb51" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form></div></div>						        	</div>
+						        							</div>
+						</div>
+					</div>
+				</div>
+				<div class="grid-container">
+					<div class="grid-x">
+						<div class="cell main-nav-container">
+							<div class="logo">
+								<a href="https://brentwood.church">
+																			<img src="https://brentwood.church/wp-content/uploads/sites/2/2021/09/BWD_LOGO_RGBicon_GRAYtext-800x185.png" alt="" class="logo-img">
+																	</a>
+							</div>
+							<div class="main-nav-container-2">
+								<nav class="main-nav">
+									<ul><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11566 open"><a href="##">New Here</a>
+<ul class="sub-menu" style="opacity: 1; display: flex;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6881"><a href="https://brentwood.church/new-here/">New Here<span class="description">New to our church? Here’s what to expect</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11565"><a href="https://brentwood.church/discover/">Discover<span class="description">Learn more about becoming a member</span></a></li>
+<a href="" class="submenu-close-button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><title>close</title><path d="M13.957 3.457l-1.414-1.414-4.543 4.543-4.543-4.543-1.414 1.414 4.543 4.543-4.543 4.543 1.414 1.414 4.543-4.543 4.543 4.543 1.414-1.414-4.543-4.543z"></path></svg></a></ul>
+</li>
+<li class="two-column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a href="#">Connect</a>
+<ul class="sub-menu" style="opacity: 1; display: none;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17921"><a href="https://brentwood.church/groups/">Groups<span class="description">Join a group and find your community</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5689"><a href="https://brentwood.church/preschool">Preschool<span class="description">Birth–5 Years Old</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5687"><a href="https://brentwood.church/kids">Kids<span class="description">Grades 1–5</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5688"><a href="https://brentwood.church/students">Students<span class="description">Grades 6–12</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19001"><a href="https://brentwood.church/young-adults/">Young Adults<span class="description">College–age 26</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5271"><a href="https://brentwood.church/special-needs/">Special Needs<span class="description">Children and Adults with special needs</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14131"><a href="https://brentwood.church/missions/">Missions<span class="description">Serve locally and globally</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14223"><a href="https://brentwood.church/service-opportunity-finder/">Serve With Us<span class="description">Find opportunities to serve</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8206"><a href="https://brentwood.church/worship-ministry/">Worship Ministry<span class="description">Learn how to get involved</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12940"><a href="https://brentwood.church/fam/">Foster/Adoption<span class="description">Learn how to get involved</span></a></li>
+	<li class="nav-view-all menu-item menu-item-type-custom menu-item-object-custom menu-item-20111"><a href="https://brentwood.church/ministries">View All</a></li>
+<a href="" class="submenu-close-button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><title>close</title><path d="M13.957 3.457l-1.414-1.414-4.543 4.543-4.543-4.543-1.414 1.414 4.543 4.543-4.543 4.543 1.414 1.414 4.543-4.543 4.543 4.543 1.414-1.414-4.543-4.543z"></path></svg></a></ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-247"><a href="#">Watch/Read</a>
+<ul class="sub-menu" style="opacity: 1; display: none;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://brentwood.church/watch-live/">Watch Live<span class="description">Worship with us live</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://brentwood.church/sermons/">Sermons<span class="description">Watch or listen to past sermons</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18681"><a href="https://brentwood.church/bulletin/">Bulletin<span class="description">Stay up-to-date with the latest happenings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11748"><a href="https://brentwood.church/podcast/">Podcast<span class="description">Listen to the Sermon Notes podcast</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://brentwood.church/care-support/mental-health/">Mental Health<span class="description">Resources to guide your mental health</span></a></li>
+<a href="" class="submenu-close-button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><title>close</title><path d="M13.957 3.457l-1.414-1.414-4.543 4.543-4.543-4.543-1.414 1.414 4.543 4.543-4.543 4.543 1.414 1.414 4.543-4.543 4.543 4.543 1.414-1.414-4.543-4.543z"></path></svg></a></ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7764"><a href="https://brentwood.church/calendar/">Calendar</a></li>
+<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-8606"><a href="https://brentwood.church/stewardship/">Give</a></li>
+</ul>								</nav>
+								<div class="mobile-nav-toggle">
+									<a href="#" class="mobile-nav-toggle" data-toggle="mobile-nav" aria-expanded="false" aria-label="Open Mobile Navigation">
+										<div></div>
+										<div></div>
+										<div></div>
+									</a>
+								</div>
+								<div class="off-canvas-nav-toggle">
+									<a href="#" class="off-canvas-toggle" data-toggle="offCanvas" aria-label="Open Navigation" aria-expanded="false" aria-controls="offCanvas">
+										<div></div>
+										<div></div>
+										<div></div>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+<!-- Desktop Navigation -->
+<nav class="hidden lg:block">
+  <ul class="flex items-center space-x-6">
+    {
+      navItems.map((item) => {
+        const isActive = currentPath === item.href || 
+                         (item.href !== "/" && currentPath.startsWith(item.href));
+        
+        return (
+          <li>
+            <a
+              href={item.href}
+              class={`text-base font-medium transition-colors hover:text-primary-600 ${
+                isActive ? "text-primary-600" : "text-gray-700"
+              }`}
+              aria-current={isActive ? "page" : undefined}
+            >
+              {item.text}
+            </a>
+          </li>
+        );
+      })
+    }
+
+  </ul>
+</nav>
+
+<!-- Mobile Menu Button -->
+<button
+  id="mobile-menu-button"
+  class="lg:hidden p-2 text-gray-700 hover:text-primary-600 focus:outline-none transition-colors relative"
+  aria-label="Toggle Menu"
+  aria-expanded="false"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+  </svg>
+</button>
+
+<!-- Mobile Menu Dropdown - Compact & Clean -->
+<div
+  id="mobile-menu"
+  class="absolute top-full left-0 right-0 bg-white shadow-lg border-t border-gray-100 transform scale-y-0 origin-top transition-transform duration-200 ease-out lg:hidden z-50"
+  role="menu"
+  aria-labelledby="mobile-menu-button"
+>
+  <!-- Navigation Links in Grid -->
+  <div class="px-4 py-6">
+    <div class="grid grid-cols-2 gap-3">
+      {
+        navItems.map((item) => {
+          const isActive = currentPath === item.href || 
+                           (item.href !== "/" && currentPath.startsWith(item.href));
+          
+          return (
+            <a
+              href={item.href}
+              class={`block px-4 py-3 text-sm font-medium rounded-lg transition-colors text-center ${
+                isActive 
+                  ? "bg-primary-50 text-primary-600 border border-primary-200" 
+                  : "text-gray-700 hover:bg-gray-50 hover:text-primary-600 border border-transparent"
+              }`}
+              role="menuitem"
+              aria-current={isActive ? "page" : undefined}
+            >
+              {item.text}
+            </a>
+          );
+        })
+      }
+    </div>
+    
+   
+  </div>
+</div>
+
+<style>
+  /* Mobile menu button animation */
+  #mobile-menu-button:hover svg {
+    transform: scale(1.1);
+  }
+  
+  #mobile-menu-button svg {
+    transition: transform 0.2s ease;
+  }
+  
+  /* Mobile menu show/hide states */
+  #mobile-menu.show {
+    transform: scaleY(1);
+  }
+  
+  /* Smooth hover effects */
+  #mobile-menu a {
+    transition: all 0.15s ease;
+  }
+  
+  /* Active state styling */
+  #mobile-menu a[aria-current="page"] {
+    font-weight: 600;
+  }
+</style>
+
+<script>
+  // Mobile menu functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const mobileMenuButton = document.getElementById('mobile-menu-button');
+    const mobileMenu = document.getElementById('mobile-menu');
+    
+    let isMenuOpen = false;
+    
+    // Function to toggle mobile menu
+    const toggleMobileMenu = () => {
+      isMenuOpen = !isMenuOpen;
+      
+      if (isMenuOpen) {
+        // Show menu
+        mobileMenu.classList.add('show');
+        mobileMenuButton.setAttribute('aria-expanded', 'true');
+      } else {
+        // Hide menu
+        mobileMenu.classList.remove('show');
+        mobileMenuButton.setAttribute('aria-expanded', 'false');
+      }
+    };
+    
+    // Event listeners
+    mobileMenuButton?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleMobileMenu();
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+      if (isMenuOpen && !mobileMenu.contains(e.target) && !mobileMenuButton.contains(e.target)) {
+        toggleMobileMenu();
+      }
+    });
+    
+    // Close menu when clicking a navigation link
+    const navLinks = mobileMenu?.querySelectorAll('a[href^="/"]');
+    navLinks?.forEach(link => {
+      link.addEventListener('click', () => {
+        if (isMenuOpen) {
+          setTimeout(() => toggleMobileMenu(), 100);
+        }
+      });
+    });
+    
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && isMenuOpen) {
+        toggleMobileMenu();
+      }
+    });
+    
+    // Handle window resize
+    window.addEventListener('resize', () => {
+      if (window.innerWidth >= 1024 && isMenuOpen) {
+        toggleMobileMenu();
+      }
+    });
+  });
+</script>

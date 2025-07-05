@@ -1,0 +1,61 @@
+---
+import Button from "../UI/Button.astro";
+
+export interface Props {
+  title?: string;
+  subtitle?: string;
+  backgroundImage?: string;
+  ctaText?: string;
+  ctaLink?: string;
+  secondaryCtaText?: string;
+  secondaryCtaLink?: string;
+}
+
+const {
+  title1 = "For GOD",
+  title2 = "For People", 
+  title3 = "Welcome to BOLGPC",
+  subtitle = "A place of worship, community, and spiritual growth",
+  backgroundImage = "/uploads/hero-bg.jpg",
+  ctaText = "Plan Your Visit",
+  ctaLink = "/im-new",
+  secondaryCtaText = "Watch Sermons",
+  secondaryCtaLink = "/sermons",
+} = Astro.props;
+---
+
+<header class="bg-image align-left sc-7fcf5752-0 ewvjqz block-id-27f9e76c-2089-4a41-91a5-5c34b0cbbedb" data-block="true" index="0"><div class="header-inner"><div data-container="true" class="sc-d1d15315-0 dRPRKv container"><div class="header-defaults"><div class="header-defaults-wrap"><div class="rich-wrap render-rich-text"><h1>Everyone's Welcome,&nbsp;</h1><h1>Nobody's Perfect,&nbsp;</h1><h1>Anything's Possible.</h1><h4><span style="font-weight: normal;">Join Us Sundays 10:00 am (First Word) &amp; 11:00 am (Worship Service)</span></h4><div class="sc-dd09468-0 easNSq" data-buttons="true"><a id="86d69204-2ef5-4eca-89d5-da16e02bd75f" url="/welcome" href="/welcome" text="Plan Your Visit" class="button-action sc-fb534a9b-0 jeMhYr -brand -primary" data-button="true"><span class="text">Plan Your Visit</span></a><a id="6388d3ca-a3de-4e4b-be43-106ee9f83d1d" url="https://live.pobc.cc/" href="https://live.pobc.cc/" text="Watch Live" target="_blank" class="button-outlined sc-fb534a9b-0 cjxCvU -brand -base" data-button="true"><span class="text">Watch Live</span></a></div></div></div></div></div></div><div class="sc-d031b9a8-0 fMiTQW"><div class="sc-996d245-0 koqlDt"><div data-react-player="true" class="react-player" style="width: 640px; height: 360px;"><video src="https://media.thechurchcoassets.com/accounts/4176/8cf75704-10ab-41df-8793-b549acebebd6-./website_intro.mov" preload="auto" autoplay="" loop="" playsinline="" webkit-playsinline="" x5-playsinline="" style="width: 100%; height: 100%;"></video></div></div></div><div class="tint"></div></header>
+
+<section 
+  class="relative  w-full aspect-video overflow-hidden pt-40 flex items-cover">
+  <source src="https://player.vimeo.com/video/888338869?background=1&autoplay=1&loop=1&muted=1&autopause=0" type="video/mp4">
+  <iframe
+    src="https://player.vimeo.com/video/888338869?background=1&autoplay=1&loop=1&muted=1&autopause=0"
+    class="absolute inset-0 w-full h-full media-overlay"
+    style="object-position: center 20%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+   
+  />
+
+  <div class="absolute inset-0 bg-black/60"></div>
+
+  <div class="relative container">
+    <div class="max-w-3xl text-white">
+      <h1 class="text-4xl md:text-6xl font-bold mb-4 text-white">{title1}</h1>
+      <h1 class="text-4xl md:text-6xl font-bold mb-4 text-white">{title2}</h1>
+      <h1 class="text-4xl md:text-6xl font-bold mb-4 text-white">{title3}</h1>
+      <p class="text-xl md:text-2xl mb-8">{subtitle}</p>
+      
+      <div class="flex flex-wrap gap-4">
+        <Button href={ctaLink} variant="primary" size="lg">
+          {ctaText}
+        </Button>
+        
+        <Button href={secondaryCtaLink} variant="outline" size="lg" class="bg-white/10 text-white border-white hover:bg-white hover:text-gray-900 backdrop-blur-sm">
+          {secondaryCtaText}
+        </Button>
+      </div>
+    </div>
+  </div>
+</section>

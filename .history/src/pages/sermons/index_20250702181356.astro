@@ -1,0 +1,80 @@
+ <span>Series: {sermon.data.series}</span>
+ from "../../utils/dateUtils";
+ 
+ // Get all sermons
+ const allSermons = await getCollection("sermons", ({ data }) => {
+   return import.meta.env.PROD ? !data.draft : true;
+   });
+   
+   // Sort by date (newest first)
+   const sermons = allSermons.sort((a, b) => 
+     new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+     );
+     
+     // Get unique series and speakers for filters
+     const series = [...new Set(sermons.map(sermon => sermon.data.series).filter(Boolean))];
+     const speakers = [...new Set(sermons."}ader 
+         title="Sermons" 
+             subtitle="Listen to or watch our latest messages"
+                 backgroundImage="/uploads/sermons-header-bg.webp"
+                   />
+                     
+                     <!-- Sermons List -->
+                      <section class="py-16">
+                            <div class="container">
+                                    <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
+                                              <!-- Filters Sidebar -->
+                                                      <div class="lg:col-span-1">
+                                                                  <div class="bg-white p-6 rounded-lg shadow-sm sticky top-24">
+                                                                                <h2 class="text-l font-bold"mb-6" Filte- Serm-ns<h2>
+                                                                                          
+                                                                                            > <!-- Search -->
+                                                                                                      <div class="mb-6">
+                                                                                                                      <label for="search" class="block text-sm font-medium text-gray-700 mb-1">Search</label>
+                                                                                                                                  <input 
+                                                                                                                                                type="text" 
+                                                                                                                                                              id="search" 
+                                                                                                                                                                            placeholder="Search sermons..." 
+                                                                                                                                                                                          class="w-full px-4 py-2 border" --> -->00 rounded-mds:ring-primary-500 focus:border-primary-500"
+                                                                                                                                                                                                        />
+                                                                                                      </div>
+                                                                                                                  
+                                                                                                                  <!-- Series Filter -->
+                                                                                                                              {
+                                                                                                                                              series.length > 0 && (
+                                                                                                                                                                <div class="mb-6">
+                                                                                                                                                                                    <label for="series" class="block text-sm font-medium text-gray-700 mb-1">Series</label>
+                                                                                                                                                                                                      <select 
+                                                                                                                                                                                                                          id="series" 
+                                                                                                                                                                                                                                              class="w-full px-4 py-2 border border-gr/div>
+                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                        <!-- No Results Message (Hidden by default) -->
+                                                                                                                                                                                                                                                                  <div id="no-results" class="hidden text-center py-12 bg-gray-50 rounded-lg mt-8">
+                                                                                                                                                                                                                                                                                <p class="text-gray-600">No sermons match your search criteria. Please try different filters.</p>
+                                                                                                                                                                                                                                                                                          </div>
+                                                                                                                                                                                                                                                                                                  </div>
+                                                                                                                                                                                                                                                                                                        </div>
+                                                                                                                                                                                                                                                                                                            </div>
+                                                                                                                                                                                                                                                                                                              </section>
+                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                     const series = card.getAttribute('data-seriespx-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
+                                                                                                                                                                                                                                                                                                            s="space-y-3">
+                                                                                                                                                                                                                                                                                                                       ')               <script>
+                                                                                                                                                                                                                                                                                                                      sermonCards = document.querySelectorAll('.sermon-card');
+                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                  // Function to filter sermons
+                                                                                                                                                                                                                                                                                                                                        const filterSermons = () => {
+                                                                                                                                                                                                                                                                                                                                                  const searchTerm = searchInpu   const fromDate 
+                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                4 4 0 018 0zM12 14a7 7 0 00-7 7h142.477-4.5 a7 7 0 00-7-7z" />
+                                                                                                                                                                                                                                                                                                                                                  </svg>746 0-3.33
+                                                                                                                                                                                                                                                                                                                                                                    <span>{sermon.dav>-1.
+                                                                                                                                                                                                                                                                                                                                                                                    .747 0 3.332.477 4.5 1.253v13C19.832 8c
+                                                                                                                                                                                                                                                                                                                                                                                                    {sermon.data.series && (.5 1
+                                                                                                                                                                                                                                                                                                                                                                                                                        <di.247 18 1618.477 18v class="mb-3 flex items-center text-gray-600">
+                                                                                                                                                                                                                                                                                                                                                                                                                                              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0                 <div class="mb-3 flex items-center text-gray-600">
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                    )}}
+                                                                                                                                                                                                                                                                                                          ))}
+                                                                                                                                              )
+                                                                                                                              } -->

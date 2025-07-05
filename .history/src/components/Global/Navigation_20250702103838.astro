@@ -1,0 +1,683 @@
+---
+// Define the navigation items
+const navItems = [
+  { text: "Home", href: "/" },
+  { text: "About Us", href: "/about-us" },
+  { text: "Staff", href: "/staff" },
+  { text: "Ministries", href: "/ministries" },
+  { text: "Sermons", href: "/sermons" },
+  { text: "Events", href: "/events" },
+  { text: "Blog", href: "/blog" },
+  { text: "I'm New", href: "/im-new" },
+  { text: "Contact", href: "/contact" },
+  { text: "Giving", href: "/giving" },
+];
+
+// Get the current URL path to highlight the active link
+const currentPath = Astro.url.pathname;
+---
+<html lang="en-US" class="" data-whatinput="mouse" data-whatintent="mouse"><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-WL9R2N3YYM&amp;cx=c&amp;_slc=1"></script><script async="" src="https://cdn.pendo.io/agent/static/91cb0fdd-a09c-4c90-739a-423fd94f8b93/pendo.js"></script><script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script async="" src="https://www.clarity.ms/s/0.8.13-beta/clarity.js"></script><script type="text/javascript" async="" src="https://script.crazyegg.com/pages/scripts/0112/4225.js"></script><script type="text/javascript" async="" src="https://rec.smartlook.com/recorder.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q9NJD267PJ&amp;cx=c&amp;gtm=45He5710v831425086za200&amp;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908318~104908320"></script><script type="text/javascript" src="https://www.blueletterbible.org/assets/scripts/blbProtoTypes.js?tv=1.09"></script><script type="text/javascript" src="https://www.blueletterbible.org/remoteExtensions/toolTip/loadOut.cfm?tv=1.09"></script><script type="text/javascript" src="https://www.blueletterbible.org/assets/scripts/yui/build/yahoo-dom-event/yahoo-dom-event.js?tv=1.09"></script><link type="text/css" rel="stylesheet" href="https://www.blueletterbible.org/assets/css/toolTip/BLBTagger.css?tv=1.09" media="screen" id="BLBStyle"><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+		<meta charset="UTF-8">
+		
+					<title>Event Finder - Brentwood Baptist</title>
+		
+		<link rel="alternate" type="application/rss+xml" title="Brentwood Baptist" href="https://brentwood.church/feed/">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Google Tag Manager -->
+<script async="" src="https://www.clarity.ms/tag/jd70btwt9b"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KR8MTP9"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KR8MTP9');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Ministry Platform Widgets -->
+<script id="MPWidgets" src="https://brentwoodbaptist.us/widgets/dist/MPWidgets.js"></script>
+<!-- End Ministry Platform Widgets-->
+
+<!-- MP -> OnlineGiving Single Sign-On -->
+<script src="https://brentwoodbaptist.onlinegiving.org/assets/mpsso.js"></script>
+
+<!--
+<script type='text/javascript'>
+  window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'b7fe7563d36ec83bea671cf14db878746c23340e', { region: 'eu' });
+</script>
+-->
+
+<!-- Clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "jd70btwt9b");
+</script>
+		<script async="" src="https://cse.google.com/cse.js?cx=000226470597239359840:wddy1e7fst4"></script>
+		
+		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://brentwood.church/events/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Event Finder - Brentwood Baptist">
+	<meta property="og:url" content="https://brentwood.church/events/">
+	<meta property="og:site_name" content="Brentwood Baptist">
+	<meta property="article:modified_time" content="2024-11-13T20:17:20+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://brentwood.church/events/","url":"https://brentwood.church/events/","name":"Event Finder - Brentwood Baptist","isPartOf":{"@id":"https://brentwood.church/#website"},"datePublished":"2021-12-01T15:00:32+00:00","dateModified":"2024-11-13T20:17:20+00:00","breadcrumb":{"@id":"https://brentwood.church/events/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://brentwood.church/events/"]}]},{"@type":"BreadcrumbList","@id":"https://brentwood.church/events/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://brentwood.church/"},{"@type":"ListItem","position":2,"name":"Event Finder"}]},{"@type":"WebSite","@id":"https://brentwood.church/#website","url":"https://brentwood.church/","name":"Brentwood Baptist","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://brentwood.church/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//maps.googleapis.com">
+<link rel="dns-prefetch" href="//use.typekit.net">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+<link rel="alternate" type="text/calendar" title="Brentwood Baptist » iCal Feed" href="https://brentwood.church/calendar/?ical=1">
+<link rel="stylesheet" id="PrayerEngineFrontendStyles-css" href="https://brentwood.church/wp-content/plugins/prayerengine_plugin/css/pe_2_styles.css?ver=6.5" media="all">
+<link rel="stylesheet" id="tribe-events-pro-mini-calendar-block-styles-css" href="https://brentwood.church/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-mini-calendar-block.min.css?ver=6.3.3" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="typekit-css" href="https://use.typekit.net/lcx0ael.css?ver=1.0.0" media="all">
+<link rel="stylesheet" id="theme-styles-css" href="https://brentwood.church/wp-content/themes/brentwood-campus/dist/assets/css/app.css?ver=2.0.60" media="all">
+<!--n2css--><script type="text/javascript" src="https://brentwood.church/wp-content/themes/brentwood-campus/dist/assets/js/app.js?ver=2.0.45" id="theme-scripts-js"></script><meta class="foundation-mq">
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNZ1FLaYcnWYjCtn8Kb0DGr4Oo7HzaUpU&amp;ver=1.0.0" id="google-maps-js"></script>
+<script type="text/javascript" id="PrayerEngineFrontendJavascript-js-extra">
+/* <![CDATA[ */
+var peajax = {"ajaxurl":"https:\/\/brentwood.church\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://brentwood.church/wp-content/plugins/prayerengine_plugin/js/prayerwall210.js?ver=6.5" id="PrayerEngineFrontendJavascript-js"></script>
+<link rel="https://api.w.org/" href="https://brentwood.church/wp-json/"><link rel="alternate" type="application/json" href="https://brentwood.church/wp-json/wp/v2/pages/8905"><link rel="alternate" type="application/json+oembed" href="https://brentwood.church/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrentwood.church%2Fevents%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://brentwood.church/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrentwood.church%2Fevents%2F&amp;format=xml">
+<!-- Display fixes for Internet Explorer -->
+	<!--[if lte IE 6]>
+	<link href="https://brentwood.church/wp-content/plugins/prayerengine_plugin/css/ie6_fix.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link href="https://brentwood.church/wp-content/plugins/prayerengine_plugin/css/ie7_fix.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link href="https://brentwood.church/wp-content/plugins/prayerengine_plugin/css/ie8_fix.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!-- end display fixes for Internet Explorer --><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://brentwood.church"><link rel="alternate" href="https://brentwood.church/wp-json/tribe/events/v1/"><script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0112/4225.js" async="async"></script><link rel="icon" href="https://brentwood.church/wp-content/uploads/sites/2/2024/01/cropped-1000x1000_BWD-32x32.png" sizes="32x32">
+<link rel="icon" href="https://brentwood.church/wp-content/uploads/sites/2/2024/01/cropped-1000x1000_BWD-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://brentwood.church/wp-content/uploads/sites/2/2024/01/cropped-1000x1000_BWD-180x180.png">
+<meta name="msapplication-TileImage" content="https://brentwood.church/wp-content/uploads/sites/2/2024/01/cropped-1000x1000_BWD-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			/* grow buttons, menu items on hover */
+.button, .menu-item a {
+	transition: all .1s ease-in-out;
+}
+.button:hover, .menu-item a:hover {
+	transform: scale(1.03);
+}		</style>
+			<script src="https://brentwoodbaptist.us/widgets/dist/EventFinder.js"></script><script src="https://brentwoodbaptist.us/widgets/dist/UserLogin.js"></script><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><script src="https://rec.smartlook.com/polyfills.9d9e60e0603e89ed401f.js"></script><script src="https://rec.smartlook.com/es6/init.4e02050bca448f127b3f.js" type="module"></script><script src="https://rec.smartlook.com/es5/init.4e3e7e7f27632918efcd.js" nomodule=""></script><script src="https://www.google.com/cse/static/element/197b0e284b1b1f14/cse_element__en.js?usqp=CAM%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/197b0e284b1b1f14/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v4/default.css" rel="stylesheet"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#D9D9D9}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#008CBA;background-color:#008CBA;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#0000CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#0000CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#0000CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#0000CC}.gsc-cursor-page{color:#0000CC}a.gsc-trailing-more-results:link{color:#0000CC}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#000000}.gs-webResult div.gs-visibleUrl{color:#008000}.gs-webResult div.gs-visibleUrl-short{color:#008000}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:none}.gs-webResult div.gs-visibleUrl-breadcrumb{display:block}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:block}.gs-promotion div.gs-visibleUrl-breadcrumb{display:none}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#336699;background-color:#FFFFFF}.gsc-completion-title{color:#0000CC}.gsc-completion-snippet{color:#000000}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#0000CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#0000CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#0000CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#0000CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#000000}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#008000}.gcsc-find-more-on-google{color:#0000CC}.gcsc-find-more-on-google-magnifier{fill:#0000CC}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/61/7a/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/61/7a/util.js"></script></head>
+	<body class="page-template page-template-templates page-template-template-no-header page-template-templatestemplate-no-header-php page page-id-8905 tribe-js events">
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KR8MTP9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->		<div class="off-canvas position-right is-transition-push is-closed" id="offCanvas" data-off-canvas="" data-auto-focus="false" aria-hidden="true" data-i="g14yvv-i">
+			<ul class="off-canvas-navigation main-nav">
+	        	<li id="menu-item-11566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11566"><a href="##">New Here</a>
+<ul class="sub-menu">
+	<li id="menu-item-6881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6881"><a href="https://brentwood.church/new-here/">New Here<span class="description">New to our church? Here’s what to expect</span></a></li>
+	<li id="menu-item-11565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11565"><a href="https://brentwood.church/discover/">Discover<span class="description">Learn more about becoming a member</span></a></li>
+</ul>
+</li>
+<li id="menu-item-239" class="two-column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a href="#">Connect</a>
+<ul class="sub-menu">
+	<li id="menu-item-17921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17921"><a href="https://brentwood.church/groups/">Groups<span class="description">Join a group and find your community</span></a></li>
+	<li id="menu-item-5689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5689"><a href="https://brentwood.church/preschool">Preschool<span class="description">Birth–5 Years Old</span></a></li>
+	<li id="menu-item-5687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5687"><a href="https://brentwood.church/kids">Kids<span class="description">Grades 1–5</span></a></li>
+	<li id="menu-item-5688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5688"><a href="https://brentwood.church/students">Students<span class="description">Grades 6–12</span></a></li>
+	<li id="menu-item-19001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19001"><a href="https://brentwood.church/young-adults/">Young Adults<span class="description">College–age 26</span></a></li>
+	<li id="menu-item-5271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5271"><a href="https://brentwood.church/special-needs/">Special Needs<span class="description">Children and Adults with special needs</span></a></li>
+	<li id="menu-item-14131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14131"><a href="https://brentwood.church/missions/">Missions<span class="description">Serve locally and globally</span></a></li>
+	<li id="menu-item-14223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14223"><a href="https://brentwood.church/service-opportunity-finder/">Serve With Us<span class="description">Find opportunities to serve</span></a></li>
+	<li id="menu-item-8206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8206"><a href="https://brentwood.church/worship-ministry/">Worship Ministry<span class="description">Learn how to get involved</span></a></li>
+	<li id="menu-item-12940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12940"><a href="https://brentwood.church/fam/">Foster/Adoption<span class="description">Learn how to get involved</span></a></li>
+	<li id="menu-item-20111" class="nav-view-all menu-item menu-item-type-custom menu-item-object-custom menu-item-20111"><a href="https://brentwood.church/ministries">View All</a></li>
+</ul>
+</li>
+<li id="menu-item-247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-247"><a href="#">Watch/Read</a>
+<ul class="sub-menu">
+	<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://brentwood.church/watch-live/">Watch Live<span class="description">Worship with us live</span></a></li>
+	<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://brentwood.church/sermons/">Sermons<span class="description">Watch or listen to past sermons</span></a></li>
+	<li id="menu-item-18681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18681"><a href="https://brentwood.church/bulletin/">Bulletin<span class="description">Stay up-to-date with the latest happenings</span></a></li>
+	<li id="menu-item-11748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11748"><a href="https://brentwood.church/podcast/">Podcast<span class="description">Listen to the Sermon Notes podcast</span></a></li>
+	<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://brentwood.church/care-support/mental-health/">Mental Health<span class="description">Resources to guide your mental health</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7764"><a href="https://brentwood.church/calendar/">Calendar</a></li>
+<li id="menu-item-8606" class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-8606"><a href="https://brentwood.church/stewardship/">Give</a></li>
+	        </ul>
+	        <ul class="off-canvas-navigation top-nav">
+	        	<li id="menu-item-7756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7756"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-19755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19755"><a href="https://brentwood.church/about/">About Us</a></li>
+	<li id="menu-item-7861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7861"><a href="https://brentwood.church/membership/">Membership</a></li>
+	<li id="menu-item-7762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7762"><a href="https://brentwood.church/staff/">Campus Staff</a></li>
+	<li id="menu-item-7758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7758"><a href="https://brentwood.church/what-we-believe/">What We Believe</a></li>
+	<li id="menu-item-7759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7759"><a href="https://brentwoodbaptist.com/about/mission-vision/">Mission &amp; Vision</a></li>
+	<li id="menu-item-7760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7760"><a href="https://brentwood.church/dxd/">Disciple Making</a></li>
+	<li id="menu-item-7761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7761"><a href="https://brentwood.church/gospelconversations/">Gospel Conversations</a></li>
+</ul>
+</li>
+<li id="menu-item-14062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14062"><a href="#">Additional Ministries</a>
+<ul class="sub-menu">
+	<li id="menu-item-13929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13929"><a href="https://brentwood.church/care-support/">Care &amp; Support</a></li>
+	<li id="menu-item-14061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14061"><a href="https://brentwood.church/adults/senior-adults/">Senior Adults</a></li>
+</ul>
+</li>
+<li id="menu-item-3041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3041"><a href="https://brentwood.church/prayer/">Prayer</a></li>
+<li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705"><a href="https://brentwood.church/contact-us/">Contact Us</a></li>
+<li id="menu-item-20971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20971"><a href="https://brentwood.church/surefire-coffee/">Surefire Coffee</a></li>
+	        </ul>
+	        
+		</div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+		<div class="off-canvas-content" data-off-canvas-content="">
+			<div class="mobile-nav-container">
+				<div class="mobile-nav-header">
+								        		<div class="mobile-nav-mp">
+						        <mpp-user-login customcss="https://brentwoodbaptist.com/mp-css/menu.css">
+									<a href="https://brentwoodbaptist.com/account/my-household/">My Household</a>
+<a href="https://brentwoodbaptist.com/account/contribution-statement/">My Contribution Statements</a>
+<a href="https://brentwoodbaptist.com/account/groups/">My Groups</a>
+<a href="https://brentwoodbaptist.com/account/invoices/">My Invoices</a>
+<a href="https://brentwoodbaptist.com/account/pledges/">My Pledges</a>
+<a href="https://brentwoodbaptist.com/account/subscriptions/">My Subscriptions</a>
+<a href="https://brentwoodbaptist.com/account/online-directory/">Online Directory</a>
+								</mpp-user-login>
+							</div>
+						
+					<a href="#" class="mobile-nav-close"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><title>close</title><path d="M13.957 3.457l-1.414-1.414-4.543 4.543-4.543-4.543-1.414 1.414 4.543 4.543-4.543 4.543 1.414 1.414 4.543-4.543 4.543 4.543 1.414-1.414-4.543-4.543z"></path></svg></a>
+				</div>
+
+				<ul class="mobile-navigation">
+		        	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11566"><a href="##">New Here</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6881"><a href="https://brentwood.church/new-here/">New Here<span class="description">New to our church? Here’s what to expect</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11565"><a href="https://brentwood.church/discover/">Discover<span class="description">Learn more about becoming a member</span></a></li>
+</ul>
+</li>
+<li class="two-column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a href="#">Connect</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17921"><a href="https://brentwood.church/groups/">Groups<span class="description">Join a group and find your community</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5689"><a href="https://brentwood.church/preschool">Preschool<span class="description">Birth–5 Years Old</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5687"><a href="https://brentwood.church/kids">Kids<span class="description">Grades 1–5</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5688"><a href="https://brentwood.church/students">Students<span class="description">Grades 6–12</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19001"><a href="https://brentwood.church/young-adults/">Young Adults<span class="description">College–age 26</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5271"><a href="https://brentwood.church/special-needs/">Special Needs<span class="description">Children and Adults with special needs</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14131"><a href="https://brentwood.church/missions/">Missions<span class="description">Serve locally and globally</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14223"><a href="https://brentwood.church/service-opportunity-finder/">Serve With Us<span class="description">Find opportunities to serve</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8206"><a href="https://brentwood.church/worship-ministry/">Worship Ministry<span class="description">Learn how to get involved</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12940"><a href="https://brentwood.church/fam/">Foster/Adoption<span class="description">Learn how to get involved</span></a></li>
+	<li class="nav-view-all menu-item menu-item-type-custom menu-item-object-custom menu-item-20111"><a href="https://brentwood.church/ministries">View All</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-247"><a href="#">Watch/Read</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://brentwood.church/watch-live/">Watch Live<span class="description">Worship with us live</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://brentwood.church/sermons/">Sermons<span class="description">Watch or listen to past sermons</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18681"><a href="https://brentwood.church/bulletin/">Bulletin<span class="description">Stay up-to-date with the latest happenings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11748"><a href="https://brentwood.church/podcast/">Podcast<span class="description">Listen to the Sermon Notes podcast</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://brentwood.church/care-support/mental-health/">Mental Health<span class="description">Resources to guide your mental health</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7764"><a href="https://brentwood.church/calendar/">Calendar</a></li>
+<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-8606"><a href="https://brentwood.church/stewardship/">Give</a></li>
+		        	<li class="menu-item menu-item-has-children"><a href="#">More</a>
+						<ul class="sub-menu">
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7756"><a href="#">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19755"><a href="https://brentwood.church/about/">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7861"><a href="https://brentwood.church/membership/">Membership</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7762"><a href="https://brentwood.church/staff/">Campus Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7758"><a href="https://brentwood.church/what-we-believe/">What We Believe</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7759"><a href="https://brentwoodbaptist.com/about/mission-vision/">Mission &amp; Vision</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7760"><a href="https://brentwood.church/dxd/">Disciple Making</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7761"><a href="https://brentwood.church/gospelconversations/">Gospel Conversations</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14062"><a href="#">Additional Ministries</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13929"><a href="https://brentwood.church/care-support/">Care &amp; Support</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14061"><a href="https://brentwood.church/adults/senior-adults/">Senior Adults</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3041"><a href="https://brentwood.church/prayer/">Prayer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705"><a href="https://brentwood.church/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20971"><a href="https://brentwood.church/surefire-coffee/">Surefire Coffee</a></li>
+						</ul>
+					</li>
+		        </ul>
+
+		        			        <div class="search-container">
+		        		<div id="___gcse_0"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" aria-label="search" id="gsc-i-id1" dir="ltr" spellcheck="false" style="width: 100%; padding: 0px; border: medium; margin: -0.0625em 0px 0px; height: 1.25em; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: currentcolor;" placeholder="Search"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" title="Clear search box" role="button" style="display: none;"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form></div></div>		        	</div>
+		        			</div>
+						<header class="header" role="banner">
+				<div class="header-live-alert-container"></div>
+		
+				<script>
+					$(document).ready(function() {
+						console.log($.ajax({  
+							type: 'POST',  
+							url: 'https://brentwood.church/wp-admin/admin-ajax.php',  
+							data: { 
+								action : 'load_live_alert'
+							},  
+							success: function(textStatus){
+							   $( '.header-live-alert-container' ).html( textStatus );
+							}  
+						}));
+					});
+				</script>
+				<div class="top-bar">
+					<div class="grid-container">
+						<div class="grid-x grid-padding-x">
+							<div class="cell auto">
+														        		<div class="top-bar-mp">
+									        <mpp-user-login customcss="https://brentwoodbaptist.com/mp-css/menu-top.css">
+												<a href="https://brentwoodbaptist.com/account/my-household/">My Household</a>
+<a href="https://brentwoodbaptist.com/account/contribution-statement/">My Contribution Statements</a>
+<a href="https://brentwoodbaptist.com/account/groups/">My Groups</a>
+<a href="https://brentwoodbaptist.com/account/invoices/">My Invoices</a>
+<a href="https://brentwoodbaptist.com/account/pledges/">My Pledges</a>
+<a href="https://brentwoodbaptist.com/account/subscriptions/">My Subscriptions</a>
+<a href="https://brentwoodbaptist.com/account/online-directory/">Online Directory</a>
+											</mpp-user-login>
+										</div>
+																</div>
+							<div class="cell shrink">
+															        <div class="search-container">
+						        		<div id="___gcse_1"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id2"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id51" class="gstl_51 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti51" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" aria-label="search" id="gsc-i-id2" dir="ltr" spellcheck="false" style="width: 100%; padding: 0px; border: medium; margin: -0.0625em 0px 0px; height: 1.25em; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: currentcolor;" placeholder="Search"></td><td class="gsib_b"><div class="gsst_b" id="gs_st51" dir="ltr"><a class="gsst_a" href="javascript:void(0)" title="Clear search box" role="button" style="display: none;"><span class="gscb_a" id="gs_cb51" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form></div></div>						        	</div>
+						        							</div>
+						</div>
+					</div>
+				</div>
+				<div class="grid-container">
+					<div class="grid-x">
+						<div class="cell main-nav-container">
+							<div class="logo">
+								<a href="https://brentwood.church">
+																			<img src="https://brentwood.church/wp-content/uploads/sites/2/2021/09/BWD_LOGO_RGBicon_GRAYtext-800x185.png" alt="" class="logo-img">
+																	</a>
+							</div>
+							<div class="main-nav-container-2">
+								<nav class="main-nav">
+									<ul><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11566 open"><a href="##">New Here</a>
+<ul class="sub-menu" style="opacity: 1; display: flex;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6881"><a href="https://brentwood.church/new-here/">New Here<span class="description">New to our church? Here’s what to expect</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11565"><a href="https://brentwood.church/discover/">Discover<span class="description">Learn more about becoming a member</span></a></li>
+<a href="" class="submenu-close-button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><title>close</title><path d="M13.957 3.457l-1.414-1.414-4.543 4.543-4.543-4.543-1.414 1.414 4.543 4.543-4.543 4.543 1.414 1.414 4.543-4.543 4.543 4.543 1.414-1.414-4.543-4.543z"></path></svg></a></ul>
+</li>
+<li class="two-column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-239"><a href="#">Connect</a>
+<ul class="sub-menu" style="opacity: 1; display: none;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17921"><a href="https://brentwood.church/groups/">Groups<span class="description">Join a group and find your community</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5689"><a href="https://brentwood.church/preschool">Preschool<span class="description">Birth–5 Years Old</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5687"><a href="https://brentwood.church/kids">Kids<span class="description">Grades 1–5</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5688"><a href="https://brentwood.church/students">Students<span class="description">Grades 6–12</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19001"><a href="https://brentwood.church/young-adults/">Young Adults<span class="description">College–age 26</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5271"><a href="https://brentwood.church/special-needs/">Special Needs<span class="description">Children and Adults with special needs</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14131"><a href="https://brentwood.church/missions/">Missions<span class="description">Serve locally and globally</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14223"><a href="https://brentwood.church/service-opportunity-finder/">Serve With Us<span class="description">Find opportunities to serve</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8206"><a href="https://brentwood.church/worship-ministry/">Worship Ministry<span class="description">Learn how to get involved</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12940"><a href="https://brentwood.church/fam/">Foster/Adoption<span class="description">Learn how to get involved</span></a></li>
+	<li class="nav-view-all menu-item menu-item-type-custom menu-item-object-custom menu-item-20111"><a href="https://brentwood.church/ministries">View All</a></li>
+<a href="" class="submenu-close-button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><title>close</title><path d="M13.957 3.457l-1.414-1.414-4.543 4.543-4.543-4.543-1.414 1.414 4.543 4.543-4.543 4.543 1.414 1.414 4.543-4.543 4.543 4.543 1.414-1.414-4.543-4.543z"></path></svg></a></ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-247"><a href="#">Watch/Read</a>
+<ul class="sub-menu" style="opacity: 1; display: none;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://brentwood.church/watch-live/">Watch Live<span class="description">Worship with us live</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://brentwood.church/sermons/">Sermons<span class="description">Watch or listen to past sermons</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18681"><a href="https://brentwood.church/bulletin/">Bulletin<span class="description">Stay up-to-date with the latest happenings</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11748"><a href="https://brentwood.church/podcast/">Podcast<span class="description">Listen to the Sermon Notes podcast</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://brentwood.church/care-support/mental-health/">Mental Health<span class="description">Resources to guide your mental health</span></a></li>
+<a href="" class="submenu-close-button"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><title>close</title><path d="M13.957 3.457l-1.414-1.414-4.543 4.543-4.543-4.543-1.414 1.414 4.543 4.543-4.543 4.543 1.414 1.414 4.543-4.543 4.543 4.543 1.414-1.414-4.543-4.543z"></path></svg></a></ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7764"><a href="https://brentwood.church/calendar/">Calendar</a></li>
+<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-8606"><a href="https://brentwood.church/stewardship/">Give</a></li>
+</ul>								</nav>
+								<div class="mobile-nav-toggle">
+									<a href="#" class="mobile-nav-toggle" data-toggle="mobile-nav" aria-expanded="false" aria-label="Open Mobile Navigation">
+										<div></div>
+										<div></div>
+										<div></div>
+									</a>
+								</div>
+								<div class="off-canvas-nav-toggle">
+									<a href="#" class="off-canvas-toggle" data-toggle="offCanvas" aria-label="Open Navigation" aria-expanded="false" aria-controls="offCanvas">
+										<div></div>
+										<div></div>
+										<div></div>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+
+	
+	<main role="main" aria-label="Content">
+		
+		
+				
+			
+			<section class="page-section white-bg one-column">
+								<div class="grid-container">
+					<div class="grid-x grid-margin-x align-center">
+						<div class="small-12 medium-11 large-10 cell">
+							<h2 class="h1" style="text-align: center;">Calendar</h2>
+<p style="text-align: center;">To view ongoing Service Opportunities, <a href="/service-opportunity-finder">click here</a>.</p>
+<mpp-event-finder target="/event-details" congregationid="1" customcss="https://bbc-web-stuff.s3.amazonaws.com/mp-widgets-v3.css"></mpp-event-finder>						</div>
+					</div>
+				</div>
+			</section>
+			
+
+			
+			
+	</main>
+
+
+				<!-- footer -->
+				<footer class="footer" role="contentinfo">
+					<div class="grid-container">
+						<div class="grid-x grid-padding-x">
+							<div class="cell medium-7">
+								<div class="grid-x grid-padding-x">
+									<div class="cell large-5">
+										<h4>Join Us</h4>
+																					<p>We meet on 8:00, 9:30, &amp; 11:00 AM.</p>
+																															<p>7777 Concord Rd.<br>
+Brentwood, TN 37027																							<br><a href="https://www.google.com/maps/place/Brentwood+Baptist/@35.996687,-86.802818,15z/data=!4m2!3m1!1s0x0:0x32ccdb2a591646c0?sa=X&amp;ved=2ahUKEwiqydnF2ZbkAhWjd98KHW8lCf4Q_BIwE3oECAsQCA" target="_blank">Get Directions</a>
+																						</p>
+										
+									</div>
+																			<div class="cell large-7">
+											
+																							<h4>About Us</h4>
+												<p>Our mission is to engage the whole person with the whole gospel of Jesus Christ anywhere, anytime, with anybody.</p>
+											
+																							<h4>Social</h4>
+												<ul class="social">
+									        																<li class="social-icon"><a href="https://www.instagram.com/brentwoodbaptist/" target="_blank">
+															<i class="icon-instagram"></i>
+														</a></li>
+																																			        			<li class="social-icon"><a href="https://www.facebook.com/brentwoodbaptistchurch/" target="_blank">
+									        				<i class="icon-facebook"></i>
+									        			</a></li>
+									        																																										<li class="social-icon"><a href="https://www.youtube.com/user/brentwoodbaptist" target="_blank">
+															<i class="icon-youtube"></i>
+														</a></li>
+																									</ul>
+																					</div>
+									</div>
+								</div>
+								<div class="cell medium-5">
+									<div class="grid-x grid-padding-x reverse-order">
+										<div class="cell large-5 campus-nav-container">
+											<h4>Campuses</h4>
+											<nav class="campus-nav">
+												<ul><li id="menu-item-287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287"><a href="https://avesouthchurch.com">Avenue South</a></li>
+<li id="menu-item-285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285"><a href="https://brentwood.church">Brentwood</a></li>
+<li id="menu-item-292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-292"><a href="https://harpethheightschurch.com">Harpeth Heights</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290"><a href="https://lockelandspringschurch.com">Lockeland Springs</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-291"><a href="https://churchatnolensville.com">Nolensville</a></li>
+<li id="menu-item-286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286"><a href="https://stationhillchurch.com">Station Hill</a></li>
+<li id="menu-item-288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-288"><a href="https://westfranklinchurch.com">West Franklin</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289"><a href="https://churchatwoodbine.com">Woodbine</a></li>
+<li id="menu-item-17973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17973"><a href="https://churchatwestend.com/">West End (Columbia)</a></li>
+</ul>											</nav>
+										</div>
+																		<div class="cell large-7 ministry-nav-container">
+										<h4>Additional Ministries</h4>
+										<nav class="footer-nav">
+											<ul><li id="menu-item-2032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2032"><a href="http://brentwooddeaf.org/">Deaf Church</a></li>
+<li id="menu-item-2033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2033"><a href="https://brentwoodbaptist.com/chinese/">Chinese</a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160"><a href="https://www.brentwoodchildren.com/">Brentwood Young Children’s School</a></li>
+<li id="menu-item-161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161"><a href="https://brentwoodbaptist.com/worship-and-arts-academy/">Worship and Arts Academy</a></li>
+<li id="menu-item-2045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2045"><a href="https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d08145828d01814b02dea6018b">Careers</a></li>
+<li id="menu-item-7062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7062"><a href="https://brentwood.church/wp-content/uploads/sites/2/2024/10/Wedding-Policies-Procedures-BWD-2025.pdf">Weddings</a></li>
+<li id="menu-item-3232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3232"><a href="https://brentwood.church/resource-center/">Resource Center</a></li>
+<li id="menu-item-20115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20115"><a href="https://brentwoodbaptist.com/mtli/residency/">Ministry Residency</a></li>
+</ul>										</nav>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- copyright -->
+					<section class="copyright">
+						<div class="grid-container">
+							<div class="grid-x grid-padding-x">
+								<div class="cell medium-auto">
+									<p>© 2025 Brentwood Baptist Church</p>
+									<ul><li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://brentwood.church/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://brentwood.church/terms-of-use/">Terms of Use</a></li>
+</ul>								</div>
+								<div class="cell medium-shrink">
+									<p>Site by <a href="http://landslidecreative.com">Landslide Creative</a></p>
+								</div>
+							</div>
+						</div>
+					</section>
+
+				</footer>
+			</div> <!-- /off-canvas-content -->
+				<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>
+		<script src="https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js" type="text/javascript"></script>
+
+		<script type="text/javascript">
+			BLB.Tagger.Translation = 'CSB';
+		</script>
+
+	
+
+<script id="MPWidgets" text="" charset="" type="text/javascript" src="https://brentwoodbaptist.us/widgets/dist/MPWidgets.js"></script><table cellspacing="0" cellpadding="0" role="presentation" class="gstl_50 gssb_c" style="width: 2px; display: none; top: 3px; position: absolute; left: -1px;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><table cellspacing="0" cellpadding="0" role="presentation" class="gstl_51 gssb_c" style="width: 253px; display: none; top: 45px; position: absolute; left: 901px;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>
+<!-- Desktop Navigation -->
+<nav class="hidden lg:block">
+  <ul class="flex items-center space-x-6">
+    {
+      navItems.map((item) => {
+        const isActive = currentPath === item.href || 
+                         (item.href !== "/" && currentPath.startsWith(item.href));
+        
+        return (
+          <li>
+            <a
+              href={item.href}
+              class={`text-base font-medium transition-colors hover:text-primary-600 ${
+                isActive ? "text-primary-600" : "text-gray-700"
+              }`}
+              aria-current={isActive ? "page" : undefined}
+            >
+              {item.text}
+            </a>
+          </li>
+        );
+      })
+    }
+
+  </ul>
+</nav>
+
+<!-- Mobile Menu Button -->
+<button
+  id="mobile-menu-button"
+  class="lg:hidden p-2 text-gray-700 hover:text-primary-600 focus:outline-none transition-colors relative"
+  aria-label="Toggle Menu"
+  aria-expanded="false"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+  </svg>
+</button>
+
+<!-- Mobile Menu Dropdown - Compact & Clean -->
+<div
+  id="mobile-menu"
+  class="absolute top-full left-0 right-0 bg-white shadow-lg border-t border-gray-100 transform scale-y-0 origin-top transition-transform duration-200 ease-out lg:hidden z-50"
+  role="menu"
+  aria-labelledby="mobile-menu-button"
+>
+  <!-- Navigation Links in Grid -->
+  <div class="px-4 py-6">
+    <div class="grid grid-cols-2 gap-3">
+      {
+        navItems.map((item) => {
+          const isActive = currentPath === item.href || 
+                           (item.href !== "/" && currentPath.startsWith(item.href));
+          
+          return (
+            <a
+              href={item.href}
+              class={`block px-4 py-3 text-sm font-medium rounded-lg transition-colors text-center ${
+                isActive 
+                  ? "bg-primary-50 text-primary-600 border border-primary-200" 
+                  : "text-gray-700 hover:bg-gray-50 hover:text-primary-600 border border-transparent"
+              }`}
+              role="menuitem"
+              aria-current={isActive ? "page" : undefined}
+            >
+              {item.text}
+            </a>
+          );
+        })
+      }
+    </div>
+    
+   
+  </div>
+</div>
+
+<style>
+  /* Mobile menu button animation */
+  #mobile-menu-button:hover svg {
+    transform: scale(1.1);
+  }
+  
+  #mobile-menu-button svg {
+    transition: transform 0.2s ease;
+  }
+  
+  /* Mobile menu show/hide states */
+  #mobile-menu.show {
+    transform: scaleY(1);
+  }
+  
+  /* Smooth hover effects */
+  #mobile-menu a {
+    transition: all 0.15s ease;
+  }
+  
+  /* Active state styling */
+  #mobile-menu a[aria-current="page"] {
+    font-weight: 600;
+  }
+</style>
+
+<script>
+  // Mobile menu functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const mobileMenuButton = document.getElementById('mobile-menu-button');
+    const mobileMenu = document.getElementById('mobile-menu');
+    
+    let isMenuOpen = false;
+    
+    // Function to toggle mobile menu
+    const toggleMobileMenu = () => {
+      isMenuOpen = !isMenuOpen;
+      
+      if (isMenuOpen) {
+        // Show menu
+        mobileMenu.classList.add('show');
+        mobileMenuButton.setAttribute('aria-expanded', 'true');
+      } else {
+        // Hide menu
+        mobileMenu.classList.remove('show');
+        mobileMenuButton.setAttribute('aria-expanded', 'false');
+      }
+    };
+    
+    // Event listeners
+    mobileMenuButton?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleMobileMenu();
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+      if (isMenuOpen && !mobileMenu.contains(e.target) && !mobileMenuButton.contains(e.target)) {
+        toggleMobileMenu();
+      }
+    });
+    
+    // Close menu when clicking a navigation link
+    const navLinks = mobileMenu?.querySelectorAll('a[href^="/"]');
+    navLinks?.forEach(link => {
+      link.addEventListener('click', () => {
+        if (isMenuOpen) {
+          setTimeout(() => toggleMobileMenu(), 100);
+        }
+      });
+    });
+    
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && isMenuOpen) {
+        toggleMobileMenu();
+      }
+    });
+    
+    // Handle window resize
+    window.addEventListener('resize', () => {
+      if (window.innerWidth >= 1024 && isMenuOpen) {
+        toggleMobileMenu();
+      }
+    });
+  });
+</script>

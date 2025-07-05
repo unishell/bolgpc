@@ -1,0 +1,16 @@
+ <span>Series: {sermon.data.series}</span>
+ from "../../utils/dateUtils";
+ 
+ // Get all sermons
+ const allSermons = await getCollection("sermons", ({ data }) => {
+   return import.meta.env.PROD ? !data.draft : true;
+   });
+   
+   // Sort by date (newest first)
+   const sermons = allSermons.sort((a, b) => 
+     new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+     );
+     
+     // Get unique series and speakers for filters
+     const series = [...new Set(sermons.map(sermon => sermon.data.series).filter(Boolean))];
+     const speakers = [...new Set(sermons."}

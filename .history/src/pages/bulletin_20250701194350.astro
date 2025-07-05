@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/Sections/PageHeader.astro";
+import Bulletin from "../content/bulletin.md";
+---
+
+<BaseLayout
+  title="Church Bulletin - BOLGPC"
+  description="Archived Bulletin"
+>
+  <PageHeader 
+    title="Church Bulletin" 
+    subtitle="Church Bulletin"
+    backgroundImage="/uploads/about-header.jpg"
+  />
+  <div class="container">
+    <a href="https://bolgpc.org/wp-content/uploads/2025/06/Where-do-we-go-from-here-Horz.pdf" target="_blank" rel="noopener noreferrer">
+      <div class="bg-gray-50 p-8 rounded-lg shadow-sm">
+        <h3 class="text-xl font-bold mb-3 underline">Our Latest Bulletin</h3>
+      </div>
+    </a>
+    <a href="/archived-sermon" target="_blank" rel="noopener noreferrer">
+      <div class="bg-gray-50 p-8 rounded-lg shadow-sm">
+        <h3 class="text-xl font-bold mb-3 underline">Archived Bulletins</h3>
+      </div>
+    </BaseLayout>
